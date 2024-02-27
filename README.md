@@ -19,7 +19,7 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 ## 🧪 Open Source Projects:
 
-- **[gama](https://github.com/termkit/gama)**: Manage your GitHub Actions in the terminal with ease and efficiency.
+- [termkit/**gama**](https://github.com/termkit/gama): Manage your GitHub Actions in the terminal with ease and efficiency.
 
 ---
 
