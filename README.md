@@ -33,7 +33,7 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### 🔥 Latest releases I've contributed to
 
-- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.28](https://github.com/kondukto-io/kdt/releases/tag/v1.0.28), 2 days ago) - CLI to interact with Kondukto
+- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.28](https://github.com/kondukto-io/kdt/releases/tag/v1.0.28), 3 days ago) - CLI to interact with Kondukto
 - [termkit/gama](https://github.com/termkit/gama) ([v1.1.0](https://github.com/termkit/gama/releases/tag/v1.1.0), 1 month ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.25.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.25.0), 2 months ago) - A powerful little TUI framework 🏗
 
@@ -47,9 +47,9 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### ⭐ Recent Stars
 
-- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (5 days ago)
-- [slok/grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version) (6 days ago)
-- [keithknott26/datadash](https://github.com/keithknott26/datadash) - Visualize and graph data in the terminal (6 days ago)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (6 days ago)
+- [slok/grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version) (1 week ago)
+- [keithknott26/datadash](https://github.com/keithknott26/datadash) - Visualize and graph data in the terminal (1 week ago)
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go. (1 week ago)
 - [inconshreveable/go-update](https://github.com/inconshreveable/go-update) - Build self-updating Golang programs (1 week ago)
 
