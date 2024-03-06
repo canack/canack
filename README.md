@@ -25,10 +25,10 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### 🚧 I'm currently working on
 
-- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (3 days ago)
+- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (4 days ago)
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (1 month ago)
 - [yakuter/rust-developer-list](https://github.com/yakuter/rust-developer-list) -  (1 month ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 months ago)
 - [yakuter/go-developer-list](https://github.com/yakuter/go-developer-list) - Turkish Go Developers (1 year ago)
 
 #### 🔥 Latest releases I've contributed to
@@ -50,7 +50,7 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (1 week ago)
 - [slok/grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version) (1 week ago)
 - [keithknott26/datadash](https://github.com/keithknott26/datadash) - Visualize and graph data in the terminal (1 week ago)
-- [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go. (1 week ago)
-- [inconshreveable/go-update](https://github.com/inconshreveable/go-update) - Build self-updating Golang programs (1 week ago)
+- [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go. (2 weeks ago)
+- [inconshreveable/go-update](https://github.com/inconshreveable/go-update) - Build self-updating Golang programs (2 weeks ago)
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
