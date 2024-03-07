@@ -33,7 +33,7 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### 🔥 Latest releases I've contributed to
 
-- [termkit/gama](https://github.com/termkit/gama) ([v1.1.1](https://github.com/termkit/gama/releases/tag/v1.1.1), today) - Manage your GitHub Actions from Terminal with great UI 🧪
+- [termkit/gama](https://github.com/termkit/gama) ([v1.1.1](https://github.com/termkit/gama/releases/tag/v1.1.1), 1 day ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.28](https://github.com/kondukto-io/kdt/releases/tag/v1.0.28), 1 week ago) - CLI to interact with Kondukto
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.25.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.25.0), 2 months ago) - A powerful little TUI framework 🏗
 
@@ -47,10 +47,10 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### ⭐ Recent Stars
 
-- [Smoren/huawei-ubuntu-sound-fix](https://github.com/Smoren/huawei-ubuntu-sound-fix) - Fix for sound card behavior on Huawei Matebook s14 / s16 on Ubuntu 22.04 / Fedora / Arch (today)
+- [Smoren/huawei-ubuntu-sound-fix](https://github.com/Smoren/huawei-ubuntu-sound-fix) - Fix for sound card behavior on Huawei Matebook s14 / s16 on Ubuntu 22.04 / Fedora / Arch (1 day ago)
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (1 week ago)
-- [slok/grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version) (1 week ago)
-- [keithknott26/datadash](https://github.com/keithknott26/datadash) - Visualize and graph data in the terminal (1 week ago)
+- [slok/grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version) (2 weeks ago)
+- [keithknott26/datadash](https://github.com/keithknott26/datadash) - Visualize and graph data in the terminal (2 weeks ago)
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go. (2 weeks ago)
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
