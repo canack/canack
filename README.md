@@ -25,7 +25,7 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### 🚧 I'm currently working on
 
-- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (2 days ago)
+- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (3 days ago)
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (1 month ago)
 - [yakuter/rust-developer-list](https://github.com/yakuter/rust-developer-list) -  (1 month ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 months ago)
@@ -33,7 +33,7 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### 🔥 Latest releases I've contributed to
 
-- [termkit/gama](https://github.com/termkit/gama) ([v1.1.1](https://github.com/termkit/gama/releases/tag/v1.1.1), 3 days ago) - Manage your GitHub Actions from Terminal with great UI 🧪
+- [termkit/gama](https://github.com/termkit/gama) ([v1.1.1](https://github.com/termkit/gama/releases/tag/v1.1.1), 4 days ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.28](https://github.com/kondukto-io/kdt/releases/tag/v1.0.28), 1 week ago) - CLI to interact with Kondukto
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.25.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.25.0), 2 months ago) - A powerful little TUI framework 🏗
 
@@ -47,7 +47,7 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### ⭐ Recent Stars
 
-- [Smoren/huawei-ubuntu-sound-fix](https://github.com/Smoren/huawei-ubuntu-sound-fix) - Fix for sound card behavior on Huawei Matebook s14 / s16 on Ubuntu 22.04 / Fedora / Arch (3 days ago)
+- [Smoren/huawei-ubuntu-sound-fix](https://github.com/Smoren/huawei-ubuntu-sound-fix) - Fix for sound card behavior on Huawei Matebook s14 / s16 on Ubuntu 22.04 / Fedora / Arch (4 days ago)
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (2 weeks ago)
 - [slok/grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version) (2 weeks ago)
 - [keithknott26/datadash](https://github.com/keithknott26/datadash) - Visualize and graph data in the terminal (2 weeks ago)
