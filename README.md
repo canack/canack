@@ -29,7 +29,6 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (1 month ago)
 - [yakuter/rust-developer-list](https://github.com/yakuter/rust-developer-list) -  (1 month ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 months ago)
-- [yakuter/go-developer-list](https://github.com/yakuter/go-developer-list) - Turkish Go Developers (1 year ago)
 
 #### 🔥 Latest releases I've contributed to
 
