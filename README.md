@@ -46,10 +46,10 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### ⭐ Recent Stars
 
+- [milkey-mouse/edit](https://github.com/milkey-mouse/edit) - Cross-platform Rust library for invoking &amp; waiting for the system text editor (today)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - A tetris TUI written in Go (3 days ago)
 - [Smoren/huawei-ubuntu-sound-fix](https://github.com/Smoren/huawei-ubuntu-sound-fix) - Fix for sound card behavior on Huawei Matebook s14 / s16 on Ubuntu 22.04 / Fedora / Arch (1 week ago)
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (2 weeks ago)
 - [slok/grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version) (3 weeks ago)
-- [keithknott26/datadash](https://github.com/keithknott26/datadash) - Visualize and graph data in the terminal (3 weeks ago)
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
