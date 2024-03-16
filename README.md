@@ -25,30 +25,30 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### 🚧 I'm currently working on
 
-- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (2 days ago)
-- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (1 month ago)
-- [yakuter/rust-developer-list](https://github.com/yakuter/rust-developer-list) -  (1 month ago)
+- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (3 days ago)
+- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (2 months ago)
+- [yakuter/rust-developer-list](https://github.com/yakuter/rust-developer-list) -  (2 months ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 months ago)
 
 #### 🔥 Latest releases I've contributed to
 
-- [termkit/gama](https://github.com/termkit/gama) ([v1.1.3](https://github.com/termkit/gama/releases/tag/v1.1.3), 2 days ago) - Manage your GitHub Actions from Terminal with great UI 🧪
+- [termkit/gama](https://github.com/termkit/gama) ([v1.1.3](https://github.com/termkit/gama/releases/tag/v1.1.3), 3 days ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.28](https://github.com/kondukto-io/kdt/releases/tag/v1.0.28), 2 weeks ago) - CLI to interact with Kondukto
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.25.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.25.0), 3 months ago) - A powerful little TUI framework 🏗
 
 #### 🔀 My recent Pull Requests
 
-- [Improve the logic](https://github.com/termkit/gama/pull/48) on [termkit/gama](https://github.com/termkit/gama) (2 days ago)
-- [Small improvements](https://github.com/termkit/gama/pull/43) on [termkit/gama](https://github.com/termkit/gama) (5 days ago)
+- [Improve the logic](https://github.com/termkit/gama/pull/48) on [termkit/gama](https://github.com/termkit/gama) (3 days ago)
+- [Small improvements](https://github.com/termkit/gama/pull/43) on [termkit/gama](https://github.com/termkit/gama) (6 days ago)
 - [Dynamic resize for keys](https://github.com/termkit/gama/pull/37) on [termkit/gama](https://github.com/termkit/gama) (1 month ago)
 - [Add search feature for repositories](https://github.com/termkit/gama/pull/36) on [termkit/gama](https://github.com/termkit/gama) (1 month ago)
 - [Show are you sure? message when switch between options](https://github.com/termkit/gama/pull/34) on [termkit/gama](https://github.com/termkit/gama) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [orhun/ratatui-splash-screen](https://github.com/orhun/ratatui-splash-screen) - A Ratatui widget to turn any image to a splash screen in your terminal ✨ (today)
-- [milkey-mouse/edit](https://github.com/milkey-mouse/edit) - Cross-platform Rust library for invoking &amp; waiting for the system text editor (1 day ago)
-- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - A tetris TUI written in Go (4 days ago)
+- [orhun/ratatui-splash-screen](https://github.com/orhun/ratatui-splash-screen) - A Ratatui widget to turn any image to a splash screen in your terminal ✨ (1 day ago)
+- [milkey-mouse/edit](https://github.com/milkey-mouse/edit) - Cross-platform Rust library for invoking &amp; waiting for the system text editor (2 days ago)
+- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - A tetris TUI written in Go (5 days ago)
 - [Smoren/huawei-ubuntu-sound-fix](https://github.com/Smoren/huawei-ubuntu-sound-fix) - Fix for sound card behavior on Huawei Matebook s14 / s16 on Ubuntu 22.04 / Fedora / Arch (1 week ago)
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (3 weeks ago)
 
