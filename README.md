@@ -38,11 +38,11 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### 🔀 My recent Pull Requests
 
+- [Use new configuration path](https://github.com/termkit/gama/pull/52) on [termkit/gama](https://github.com/termkit/gama) (today)
 - [Improve the logic](https://github.com/termkit/gama/pull/48) on [termkit/gama](https://github.com/termkit/gama) (4 days ago)
 - [Small improvements](https://github.com/termkit/gama/pull/43) on [termkit/gama](https://github.com/termkit/gama) (1 week ago)
 - [Dynamic resize for keys](https://github.com/termkit/gama/pull/37) on [termkit/gama](https://github.com/termkit/gama) (1 month ago)
 - [Add search feature for repositories](https://github.com/termkit/gama/pull/36) on [termkit/gama](https://github.com/termkit/gama) (1 month ago)
-- [Show are you sure? message when switch between options](https://github.com/termkit/gama/pull/34) on [termkit/gama](https://github.com/termkit/gama) (1 month ago)
 
 #### ⭐ Recent Stars
 
