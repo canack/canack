@@ -33,7 +33,7 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 #### 🔥 Latest releases I've contributed to
 
 - [termkit/gama](https://github.com/termkit/gama) ([v1.1.4](https://github.com/termkit/gama/releases/tag/v1.1.4), 1 week ago) - Manage your GitHub Actions from Terminal with great UI 🧪
-- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.28](https://github.com/kondukto-io/kdt/releases/tag/v1.0.28), 3 weeks ago) - CLI to interact with Kondukto
+- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.28](https://github.com/kondukto-io/kdt/releases/tag/v1.0.28), 4 weeks ago) - CLI to interact with Kondukto
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.25.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.25.0), 3 months ago) - A powerful little TUI framework 🏗
 
 #### 🔀 My recent Pull Requests
@@ -46,10 +46,10 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### ⭐ Recent Stars
 
-- [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes (1 day ago)
-- [bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook) - Unofficial Reference Book for the Bevy Game Engine (1 day ago)
+- [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes (2 days ago)
+- [bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook) - Unofficial Reference Book for the Bevy Game Engine (2 days ago)
 - [orhun/ratatui-splash-screen](https://github.com/orhun/ratatui-splash-screen) - A Ratatui widget to turn any image to a splash screen in your terminal ✨ (1 week ago)
 - [milkey-mouse/edit](https://github.com/milkey-mouse/edit) - Cross-platform Rust library for invoking &amp; waiting for the system text editor (1 week ago)
-- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - A tetris TUI written in Go (1 week ago)
+- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - A tetris TUI written in Go (2 weeks ago)
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
