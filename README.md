@@ -46,8 +46,8 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### ⭐ Recent Stars
 
-- [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes (2 days ago)
-- [bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook) - Unofficial Reference Book for the Bevy Game Engine (2 days ago)
+- [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes (3 days ago)
+- [bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook) - Unofficial Reference Book for the Bevy Game Engine (3 days ago)
 - [orhun/ratatui-splash-screen](https://github.com/orhun/ratatui-splash-screen) - A Ratatui widget to turn any image to a splash screen in your terminal ✨ (1 week ago)
 - [milkey-mouse/edit](https://github.com/milkey-mouse/edit) - Cross-platform Rust library for invoking &amp; waiting for the system text editor (1 week ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - A tetris TUI written in Go (2 weeks ago)
