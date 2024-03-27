@@ -33,23 +33,23 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 #### 🔥 Latest releases I've contributed to
 
 - [termkit/gama](https://github.com/termkit/gama) ([v1.1.4](https://github.com/termkit/gama/releases/tag/v1.1.4), 1 week ago) - Manage your GitHub Actions from Terminal with great UI 🧪
-- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.28](https://github.com/kondukto-io/kdt/releases/tag/v1.0.28), 4 weeks ago) - CLI to interact with Kondukto
+- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.28](https://github.com/kondukto-io/kdt/releases/tag/v1.0.28), 1 month ago) - CLI to interact with Kondukto
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.25.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.25.0), 3 months ago) - A powerful little TUI framework 🏗
 
 #### 🔀 My recent Pull Requests
 
 - [Add sha256 summary support](https://github.com/termkit/gama/pull/53) on [termkit/gama](https://github.com/termkit/gama) (1 week ago)
 - [Use new configuration path](https://github.com/termkit/gama/pull/52) on [termkit/gama](https://github.com/termkit/gama) (1 week ago)
-- [Improve the logic](https://github.com/termkit/gama/pull/48) on [termkit/gama](https://github.com/termkit/gama) (1 week ago)
+- [Improve the logic](https://github.com/termkit/gama/pull/48) on [termkit/gama](https://github.com/termkit/gama) (2 weeks ago)
 - [Small improvements](https://github.com/termkit/gama/pull/43) on [termkit/gama](https://github.com/termkit/gama) (2 weeks ago)
 - [Dynamic resize for keys](https://github.com/termkit/gama/pull/37) on [termkit/gama](https://github.com/termkit/gama) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (today)
-- [RibirX/Ribir](https://github.com/RibirX/Ribir) - Non-intrusive declarative GUI framework for Rust (today)
-- [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes (3 days ago)
-- [bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook) - Unofficial Reference Book for the Bevy Game Engine (3 days ago)
+- [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (1 day ago)
+- [RibirX/Ribir](https://github.com/RibirX/Ribir) - Non-intrusive declarative GUI framework for Rust (1 day ago)
+- [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes (4 days ago)
+- [bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook) - Unofficial Reference Book for the Bevy Game Engine (4 days ago)
 - [orhun/ratatui-splash-screen](https://github.com/orhun/ratatui-splash-screen) - A Ratatui widget to turn any image to a splash screen in your terminal ✨ (1 week ago)
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
