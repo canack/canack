@@ -46,10 +46,10 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### ⭐ Recent Stars
 
-- [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (1 day ago)
-- [RibirX/Ribir](https://github.com/RibirX/Ribir) - Non-intrusive declarative GUI framework for Rust (1 day ago)
-- [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes (4 days ago)
-- [bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook) - Unofficial Reference Book for the Bevy Game Engine (4 days ago)
+- [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (2 days ago)
+- [RibirX/Ribir](https://github.com/RibirX/Ribir) - Non-intrusive declarative GUI framework for Rust (2 days ago)
+- [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes (5 days ago)
+- [bevy-cheatbook/bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook) - Unofficial Reference Book for the Bevy Game Engine (5 days ago)
 - [orhun/ratatui-splash-screen](https://github.com/orhun/ratatui-splash-screen) - A Ratatui widget to turn any image to a splash screen in your terminal ✨ (1 week ago)
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
