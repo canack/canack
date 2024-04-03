@@ -40,13 +40,13 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 - [Add sha256 summary support](https://github.com/termkit/gama/pull/53) on [termkit/gama](https://github.com/termkit/gama) (2 weeks ago)
 - [Use new configuration path](https://github.com/termkit/gama/pull/52) on [termkit/gama](https://github.com/termkit/gama) (2 weeks ago)
-- [Improve the logic](https://github.com/termkit/gama/pull/48) on [termkit/gama](https://github.com/termkit/gama) (2 weeks ago)
+- [Improve the logic](https://github.com/termkit/gama/pull/48) on [termkit/gama](https://github.com/termkit/gama) (3 weeks ago)
 - [Small improvements](https://github.com/termkit/gama/pull/43) on [termkit/gama](https://github.com/termkit/gama) (3 weeks ago)
 - [Dynamic resize for keys](https://github.com/termkit/gama/pull/37) on [termkit/gama](https://github.com/termkit/gama) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command (3 days ago)
+- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command (4 days ago)
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (1 week ago)
 - [RibirX/Ribir](https://github.com/RibirX/Ribir) - Non-intrusive GUI framework for Rust (1 week ago)
 - [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes (1 week ago)
