@@ -26,8 +26,8 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 #### 🚧 I'm currently working on
 
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (1 week ago)
-- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (2 months ago)
-- [yakuter/rust-developer-list](https://github.com/yakuter/rust-developer-list) -  (2 months ago)
+- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (3 months ago)
+- [yakuter/rust-developer-list](https://github.com/yakuter/rust-developer-list) -  (3 months ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 months ago)
 
 #### 🔥 Latest releases I've contributed to
@@ -46,7 +46,7 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### ⭐ Recent Stars
 
-- [wfxr/rlt](https://github.com/wfxr/rlt) - A universal load testing framework for Rust, with real-time tui support. (4 days ago)
+- [wfxr/rlt](https://github.com/wfxr/rlt) - A universal load testing framework for Rust, with real-time tui support. (5 days ago)
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks (1 week ago)
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command (2 weeks ago)
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (2 weeks ago)
