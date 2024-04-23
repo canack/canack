@@ -46,10 +46,10 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### ⭐ Recent Stars
 
+- [slackapi/slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action! (today)
 - [saschagrunert/demystifying-containers](https://github.com/saschagrunert/demystifying-containers) - A series of blog posts and talks about the world of containers 📦 (2 days ago)
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. (5 days ago)
 - [dtolnay/rust-quiz](https://github.com/dtolnay/rust-quiz) - Medium to hard Rust questions with explanations (6 days ago)
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust (1 week ago)
-- [wfxr/rlt](https://github.com/wfxr/rlt) - A universal load testing framework for Rust, with real-time tui support. (1 week ago)
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
