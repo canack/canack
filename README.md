@@ -32,9 +32,9 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### 🔥 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.0), today) - A powerful little TUI framework 🏗
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.31](https://github.com/kondukto-io/kdt/releases/tag/v1.0.31), 6 days ago) - CLI to interact with Kondukto
 - [termkit/gama](https://github.com/termkit/gama) ([v1.1.4](https://github.com/termkit/gama/releases/tag/v1.1.4), 1 month ago) - Manage your GitHub Actions from Terminal with great UI 🧪
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.25.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.25.0), 4 months ago) - A powerful little TUI framework 🏗
 
 #### 🔀 My recent Pull Requests
 
