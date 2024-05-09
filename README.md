@@ -25,14 +25,14 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### 🚧 I'm currently working on
 
-- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (4 days ago)
+- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (5 days ago)
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (3 months ago)
 - [yakuter/rust-developer-list](https://github.com/yakuter/rust-developer-list) -  (3 months ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 months ago)
 
 #### 🔥 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.2), today) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.2), 1 day ago) - A powerful little TUI framework 🏗
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.31](https://github.com/kondukto-io/kdt/releases/tag/v1.0.31), 1 week ago) - CLI to interact with Kondukto
 - [termkit/gama](https://github.com/termkit/gama) ([v1.1.4](https://github.com/termkit/gama/releases/tag/v1.1.4), 1 month ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 
@@ -41,14 +41,14 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 - [Add sha256 summary support](https://github.com/termkit/gama/pull/53) on [termkit/gama](https://github.com/termkit/gama) (1 month ago)
 - [Use new configuration path](https://github.com/termkit/gama/pull/52) on [termkit/gama](https://github.com/termkit/gama) (1 month ago)
 - [Improve the logic](https://github.com/termkit/gama/pull/48) on [termkit/gama](https://github.com/termkit/gama) (1 month ago)
-- [Small improvements](https://github.com/termkit/gama/pull/43) on [termkit/gama](https://github.com/termkit/gama) (1 month ago)
+- [Small improvements](https://github.com/termkit/gama/pull/43) on [termkit/gama](https://github.com/termkit/gama) (2 months ago)
 - [Dynamic resize for keys](https://github.com/termkit/gama/pull/37) on [termkit/gama](https://github.com/termkit/gama) (3 months ago)
 
 #### ⭐ Recent Stars
 
 - [slackapi/slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action! (2 weeks ago)
 - [saschagrunert/demystifying-containers](https://github.com/saschagrunert/demystifying-containers) - A series of blog posts and talks about the world of containers 📦 (2 weeks ago)
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. (2 weeks ago)
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. (3 weeks ago)
 - [dtolnay/rust-quiz](https://github.com/dtolnay/rust-quiz) - Medium to hard Rust questions with explanations (3 weeks ago)
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust (3 weeks ago)
 
