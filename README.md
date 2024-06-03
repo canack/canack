@@ -32,13 +32,13 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### 🔥 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.4), 3 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.4), 4 days ago) - A powerful little TUI framework 🏗
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.31](https://github.com/kondukto-io/kdt/releases/tag/v1.0.31), 1 month ago) - CLI to interact with Kondukto
 - [termkit/gama](https://github.com/termkit/gama) ([v1.1.4](https://github.com/termkit/gama/releases/tag/v1.1.4), 2 months ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 
 #### 🔀 My recent Pull Requests
 
-- [Remove V1 endpoints, use V2 instead of. And improve some logics](https://github.com/kondukto-io/kdt/pull/101) on [kondukto-io/kdt](https://github.com/kondukto-io/kdt) (6 days ago)
+- [Remove V1 endpoints, use V2 instead of. And improve some logics](https://github.com/kondukto-io/kdt/pull/101) on [kondukto-io/kdt](https://github.com/kondukto-io/kdt) (1 week ago)
 - [General Improvement](https://github.com/termkit/gama/pull/57) on [termkit/gama](https://github.com/termkit/gama) (1 week ago)
 - [Add sha256 summary support](https://github.com/termkit/gama/pull/53) on [termkit/gama](https://github.com/termkit/gama) (2 months ago)
 - [Use new configuration path](https://github.com/termkit/gama/pull/52) on [termkit/gama](https://github.com/termkit/gama) (2 months ago)
@@ -46,7 +46,7 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### ⭐ Recent Stars
 
-- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language (1 week ago)
+- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language (2 weeks ago)
 - [slackapi/slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action! (1 month ago)
 - [saschagrunert/demystifying-containers](https://github.com/saschagrunert/demystifying-containers) - A series of blog posts and talks about the world of containers 📦 (1 month ago)
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. (1 month ago)
