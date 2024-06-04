@@ -28,11 +28,11 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (2 weeks ago)
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (4 months ago)
 - [yakuter/rust-developer-list](https://github.com/yakuter/rust-developer-list) -  (4 months ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 months ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 months ago)
 
 #### 🔥 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.4), 4 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.4), 5 days ago) - A powerful little TUI framework 🏗
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.31](https://github.com/kondukto-io/kdt/releases/tag/v1.0.31), 1 month ago) - CLI to interact with Kondukto
 - [termkit/gama](https://github.com/termkit/gama) ([v1.1.4](https://github.com/termkit/gama/releases/tag/v1.1.4), 2 months ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 
