@@ -25,8 +25,8 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### 🚧 I'm currently working on
 
+- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (1 day ago)
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (2 weeks ago)
-- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (4 months ago)
 - [yakuter/rust-developer-list](https://github.com/yakuter/rust-developer-list) -  (4 months ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 months ago)
 
