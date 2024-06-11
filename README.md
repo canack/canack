@@ -25,14 +25,14 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### 🚧 I'm currently working on
 
-- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (6 days ago)
+- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (1 week ago)
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (3 weeks ago)
 - [yakuter/rust-developer-list](https://github.com/yakuter/rust-developer-list) -  (4 months ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 months ago)
 
 #### 🔥 Latest releases I've contributed to
 
-- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.32](https://github.com/kondukto-io/kdt/releases/tag/v1.0.32), 6 days ago) - CLI to interact with Kondukto
+- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.32](https://github.com/kondukto-io/kdt/releases/tag/v1.0.32), 1 week ago) - CLI to interact with Kondukto
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.4), 1 week ago) - A powerful little TUI framework 🏗
 - [termkit/gama](https://github.com/termkit/gama) ([v1.1.4](https://github.com/termkit/gama/releases/tag/v1.1.4), 2 months ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 
@@ -42,12 +42,12 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 - [General Improvement](https://github.com/termkit/gama/pull/57) on [termkit/gama](https://github.com/termkit/gama) (2 weeks ago)
 - [Add sha256 summary support](https://github.com/termkit/gama/pull/53) on [termkit/gama](https://github.com/termkit/gama) (2 months ago)
 - [Use new configuration path](https://github.com/termkit/gama/pull/52) on [termkit/gama](https://github.com/termkit/gama) (2 months ago)
-- [Improve the logic](https://github.com/termkit/gama/pull/48) on [termkit/gama](https://github.com/termkit/gama) (2 months ago)
+- [Improve the logic](https://github.com/termkit/gama/pull/48) on [termkit/gama](https://github.com/termkit/gama) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨 (6 days ago)
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io (6 days ago)
+- [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨 (1 week ago)
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io (1 week ago)
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language (3 weeks ago)
 - [slackapi/slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action! (1 month ago)
 - [saschagrunert/demystifying-containers](https://github.com/saschagrunert/demystifying-containers) - A series of blog posts and talks about the world of containers 📦 (1 month ago)
