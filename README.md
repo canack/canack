@@ -38,11 +38,11 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### 🔀 My recent Pull Requests
 
+- [Improve the update feature](https://github.com/termkit/gama/pull/61) on [termkit/gama](https://github.com/termkit/gama) (today)
 - [Remove V1 endpoints, use V2 instead of. And improve some logics](https://github.com/kondukto-io/kdt/pull/101) on [kondukto-io/kdt](https://github.com/kondukto-io/kdt) (3 weeks ago)
 - [General Improvement](https://github.com/termkit/gama/pull/57) on [termkit/gama](https://github.com/termkit/gama) (3 weeks ago)
 - [Add sha256 summary support](https://github.com/termkit/gama/pull/53) on [termkit/gama](https://github.com/termkit/gama) (3 months ago)
 - [Use new configuration path](https://github.com/termkit/gama/pull/52) on [termkit/gama](https://github.com/termkit/gama) (3 months ago)
-- [Improve the logic](https://github.com/termkit/gama/pull/48) on [termkit/gama](https://github.com/termkit/gama) (3 months ago)
 
 #### ⭐ Recent Stars
 
