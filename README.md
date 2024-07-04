@@ -25,14 +25,14 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### 🚧 I'm currently working on
 
-- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (6 days ago)
-- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (1 week ago)
+- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (1 week ago)
+- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (2 weeks ago)
 - [yakuter/rust-developer-list](https://github.com/yakuter/rust-developer-list) -  (5 months ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 months ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 months ago)
 
 #### 🔥 Latest releases I've contributed to
 
-- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.33](https://github.com/kondukto-io/kdt/releases/tag/v1.0.33), 5 days ago) - CLI to interact with Kondukto
+- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.33](https://github.com/kondukto-io/kdt/releases/tag/v1.0.33), 6 days ago) - CLI to interact with Kondukto
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 1 week ago) - A powerful little TUI framework 🏗
 - [termkit/gama](https://github.com/termkit/gama) ([v1.1.4](https://github.com/termkit/gama/releases/tag/v1.1.4), 3 months ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 
@@ -46,10 +46,10 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### ⭐ Recent Stars
 
-- [mediremi/rust-plus-golang](https://github.com/mediremi/rust-plus-golang) - Rust &#43; Go — Call Rust code from Go using FFI (4 days ago)
-- [VadzimBelski-ScienceSoft/go-call-rust-ffi](https://github.com/VadzimBelski-ScienceSoft/go-call-rust-ffi) - This is a sample how to use effectively FFI on Go and Rust (5 days ago)
+- [mediremi/rust-plus-golang](https://github.com/mediremi/rust-plus-golang) - Rust &#43; Go — Call Rust code from Go using FFI (5 days ago)
+- [VadzimBelski-ScienceSoft/go-call-rust-ffi](https://github.com/VadzimBelski-ScienceSoft/go-call-rust-ffi) - This is a sample how to use effectively FFI on Go and Rust (6 days ago)
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (1 week ago)
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue (1 week ago)
-- [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust. (1 week ago)
+- [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust. (2 weeks ago)
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
