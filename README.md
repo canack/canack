@@ -46,10 +46,10 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### ⭐ Recent Stars
 
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, or JavaScript apps. (today)
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust. (1 day ago)
 - [mediremi/rust-plus-golang](https://github.com/mediremi/rust-plus-golang) - Rust &#43; Go — Call Rust code from Go using FFI (1 week ago)
 - [VadzimBelski-ScienceSoft/go-call-rust-ffi](https://github.com/VadzimBelski-ScienceSoft/go-call-rust-ffi) - This is a sample how to use effectively FFI on Go and Rust (1 week ago)
 - [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust (1 week ago)
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue (2 weeks ago)
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
