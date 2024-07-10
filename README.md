@@ -38,17 +38,17 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### 🔀 My recent Pull Requests
 
-- [Live mode](https://github.com/termkit/gama/pull/65) on [termkit/gama](https://github.com/termkit/gama) (1 week ago)
+- [Live mode](https://github.com/termkit/gama/pull/65) on [termkit/gama](https://github.com/termkit/gama) (2 weeks ago)
 - [Feature #47 : Fill workflow with empty message if no workflow inputs](https://github.com/termkit/gama/pull/62) on [termkit/gama](https://github.com/termkit/gama) (2 weeks ago)
-- [Improve the update feature](https://github.com/termkit/gama/pull/61) on [termkit/gama](https://github.com/termkit/gama) (2 weeks ago)
+- [Improve the update feature](https://github.com/termkit/gama/pull/61) on [termkit/gama](https://github.com/termkit/gama) (3 weeks ago)
 - [Remove V1 endpoints, use V2 instead of. And improve some logics](https://github.com/kondukto-io/kdt/pull/101) on [kondukto-io/kdt](https://github.com/kondukto-io/kdt) (1 month ago)
 - [General Improvement](https://github.com/termkit/gama/pull/57) on [termkit/gama](https://github.com/termkit/gama) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (1 day ago)
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, or JavaScript apps. (2 days ago)
-- [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust. (3 days ago)
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (2 days ago)
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, or JavaScript apps. (3 days ago)
+- [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust. (4 days ago)
 - [mediremi/rust-plus-golang](https://github.com/mediremi/rust-plus-golang) - Rust &#43; Go — Call Rust code from Go using FFI (1 week ago)
 - [VadzimBelski-ScienceSoft/go-call-rust-ffi](https://github.com/VadzimBelski-ScienceSoft/go-call-rust-ffi) - This is a sample how to use effectively FFI on Go and Rust (1 week ago)
 
