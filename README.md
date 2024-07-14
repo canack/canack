@@ -27,7 +27,7 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (2 weeks ago)
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (3 weeks ago)
-- [yakuter/rust-developer-list](https://github.com/yakuter/rust-developer-list) -  (5 months ago)
+- [yakuter/rust-developer-list](https://github.com/yakuter/rust-developer-list) -  (6 months ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 months ago)
 
 #### 🔥 Latest releases I've contributed to
@@ -46,8 +46,8 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### ⭐ Recent Stars
 
-- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (5 days ago)
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, or JavaScript apps. (6 days ago)
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (6 days ago)
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, or JavaScript apps. (1 week ago)
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust. (1 week ago)
 - [mediremi/rust-plus-golang](https://github.com/mediremi/rust-plus-golang) - Rust &#43; Go — Call Rust code from Go using FFI (2 weeks ago)
 - [VadzimBelski-ScienceSoft/go-call-rust-ffi](https://github.com/VadzimBelski-ScienceSoft/go-call-rust-ffi) - This is a sample how to use effectively FFI on Go and Rust (2 weeks ago)
