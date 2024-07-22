@@ -33,7 +33,7 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 #### 🔥 Latest releases I've contributed to
 
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.33](https://github.com/kondukto-io/kdt/releases/tag/v1.0.33), 3 weeks ago) - CLI to interact with Kondukto
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 3 weeks ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 4 weeks ago) - A powerful little TUI framework 🏗
 - [termkit/gama](https://github.com/termkit/gama) ([v1.1.4](https://github.com/termkit/gama/releases/tag/v1.1.4), 4 months ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 
 #### 🔀 My recent Pull Requests
@@ -46,7 +46,7 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### ⭐ Recent Stars
 
-- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (1 week ago)
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (2 weeks ago)
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, or JavaScript apps. (2 weeks ago)
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust. (2 weeks ago)
 - [mediremi/rust-plus-golang](https://github.com/mediremi/rust-plus-golang) - Rust &#43; Go — Call Rust code from Go using FFI (3 weeks ago)
