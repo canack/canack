@@ -33,16 +33,16 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 #### 🔥 Latest releases I've contributed to
 
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.33](https://github.com/kondukto-io/kdt/releases/tag/v1.0.33), 3 weeks ago) - CLI to interact with Kondukto
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 4 weeks ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 1 month ago) - A powerful little TUI framework 🏗
 - [termkit/gama](https://github.com/termkit/gama) ([v1.1.4](https://github.com/termkit/gama/releases/tag/v1.1.4), 4 months ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 
 #### 🔀 My recent Pull Requests
 
-- [Live mode](https://github.com/termkit/gama/pull/65) on [termkit/gama](https://github.com/termkit/gama) (3 weeks ago)
+- [Live mode](https://github.com/termkit/gama/pull/65) on [termkit/gama](https://github.com/termkit/gama) (4 weeks ago)
 - [Feature #47 : Fill workflow with empty message if no workflow inputs](https://github.com/termkit/gama/pull/62) on [termkit/gama](https://github.com/termkit/gama) (1 month ago)
 - [Improve the update feature](https://github.com/termkit/gama/pull/61) on [termkit/gama](https://github.com/termkit/gama) (1 month ago)
 - [Remove V1 endpoints, use V2 instead of. And improve some logics](https://github.com/kondukto-io/kdt/pull/101) on [kondukto-io/kdt](https://github.com/kondukto-io/kdt) (1 month ago)
-- [General Improvement](https://github.com/termkit/gama/pull/57) on [termkit/gama](https://github.com/termkit/gama) (1 month ago)
+- [General Improvement](https://github.com/termkit/gama/pull/57) on [termkit/gama](https://github.com/termkit/gama) (2 months ago)
 
 #### ⭐ Recent Stars
 
