@@ -46,10 +46,10 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### ⭐ Recent Stars
 
+- [bones-ai/rust-snake-ai-ratatui](https://github.com/bones-ai/rust-snake-ai-ratatui) - Neural network learns to play snake in a terminal, built in Rust with Ratatui (today)
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (2 weeks ago)
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, or JavaScript apps. (2 weeks ago)
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust. (2 weeks ago)
 - [mediremi/rust-plus-golang](https://github.com/mediremi/rust-plus-golang) - Rust &#43; Go — Call Rust code from Go using FFI (3 weeks ago)
-- [VadzimBelski-ScienceSoft/go-call-rust-ffi](https://github.com/VadzimBelski-ScienceSoft/go-call-rust-ffi) - This is a sample how to use effectively FFI on Go and Rust (4 weeks ago)
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
