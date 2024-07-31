@@ -25,6 +25,7 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### 🚧 I'm currently working on
 
+- [canack/go-redis-sentinel-sample](https://github.com/canack/go-redis-sentinel-sample) - Example of Redis Sentinel and Go implementation (today)
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (1 month ago)
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (1 month ago)
 - [yakuter/rust-developer-list](https://github.com/yakuter/rust-developer-list) -  (6 months ago)
