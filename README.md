@@ -39,7 +39,7 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### 🔀 My recent Pull Requests
 
-- [Live mode](https://github.com/termkit/gama/pull/65) on [termkit/gama](https://github.com/termkit/gama) (1 month ago)
+- [Live Mode and General Improvements](https://github.com/termkit/gama/pull/65) on [termkit/gama](https://github.com/termkit/gama) (1 month ago)
 - [Feature #47 : Fill workflow with empty message if no workflow inputs](https://github.com/termkit/gama/pull/62) on [termkit/gama](https://github.com/termkit/gama) (1 month ago)
 - [Improve the update feature](https://github.com/termkit/gama/pull/61) on [termkit/gama](https://github.com/termkit/gama) (1 month ago)
 - [Remove V1 endpoints, use V2 instead of. And improve some logics](https://github.com/kondukto-io/kdt/pull/101) on [kondukto-io/kdt](https://github.com/kondukto-io/kdt) (2 months ago)
