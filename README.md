@@ -25,7 +25,7 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### 🚧 I'm currently working on
 
-- [canack/go-redis-sentinel-sample](https://github.com/canack/go-redis-sentinel-sample) - Example of Redis Sentinel and Go implementation (1 week ago)
+- [canack/go-redis-sentinel-sample](https://github.com/canack/go-redis-sentinel-sample) - Example of Redis Sentinel and Go implementation (2 weeks ago)
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (1 month ago)
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (1 month ago)
 - [yakuter/rust-developer-list](https://github.com/yakuter/rust-developer-list) -  (7 months ago)
@@ -35,7 +35,7 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.33](https://github.com/kondukto-io/kdt/releases/tag/v1.0.33), 1 month ago) - CLI to interact with Kondukto
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 1 month ago) - A powerful little TUI framework 🏗
-- [termkit/gama](https://github.com/termkit/gama) ([v1.1.4](https://github.com/termkit/gama/releases/tag/v1.1.4), 4 months ago) - Manage your GitHub Actions from Terminal with great UI 🧪
+- [termkit/gama](https://github.com/termkit/gama) ([v1.1.4](https://github.com/termkit/gama/releases/tag/v1.1.4), 5 months ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 
 #### 🔀 My recent Pull Requests
 
