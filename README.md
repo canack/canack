@@ -47,10 +47,10 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### ⭐ Recent Stars
 
+- [arl/statsviz](https://github.com/arl/statsviz) - 🚀 Visualise your Go program runtime metrics in real time in the browser (today)
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (today)
 - [redis/rueidis](https://github.com/redis/rueidis) - A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc. (2 weeks ago)
 - [bones-ai/rust-snake-ai-ratatui](https://github.com/bones-ai/rust-snake-ai-ratatui) - Neural network learns to play snake in a terminal, built in Rust with Ratatui (2 weeks ago)
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native (1 month ago)
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C&#43;&#43;, or JavaScript apps. (1 month ago)
-- [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust. (1 month ago)
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
