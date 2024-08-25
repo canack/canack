@@ -33,24 +33,24 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### 🔥 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.1), 2 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.1), 3 days ago) - A powerful little TUI framework 🏗
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.33](https://github.com/kondukto-io/kdt/releases/tag/v1.0.33), 1 month ago) - CLI to interact with Kondukto
 - [termkit/gama](https://github.com/termkit/gama) ([v1.1.4](https://github.com/termkit/gama/releases/tag/v1.1.4), 5 months ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 
 #### 🔀 My recent Pull Requests
 
-- [Live Mode and General Improvements](https://github.com/termkit/gama/pull/65) on [termkit/gama](https://github.com/termkit/gama) (1 month ago)
+- [Live Mode and General Improvements](https://github.com/termkit/gama/pull/65) on [termkit/gama](https://github.com/termkit/gama) (2 months ago)
 - [Feature #47 : Fill workflow with empty message if no workflow inputs](https://github.com/termkit/gama/pull/62) on [termkit/gama](https://github.com/termkit/gama) (2 months ago)
 - [Improve the update feature](https://github.com/termkit/gama/pull/61) on [termkit/gama](https://github.com/termkit/gama) (2 months ago)
-- [Remove V1 endpoints, use V2 instead of. And improve some logics](https://github.com/kondukto-io/kdt/pull/101) on [kondukto-io/kdt](https://github.com/kondukto-io/kdt) (2 months ago)
+- [Remove V1 endpoints, use V2 instead of. And improve some logics](https://github.com/kondukto-io/kdt/pull/101) on [kondukto-io/kdt](https://github.com/kondukto-io/kdt) (3 months ago)
 - [General Improvement](https://github.com/termkit/gama/pull/57) on [termkit/gama](https://github.com/termkit/gama) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [elliotchance/pie](https://github.com/elliotchance/pie) - 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance. (3 days ago)
+- [elliotchance/pie](https://github.com/elliotchance/pie) - 🍕 Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance. (4 days ago)
 - [arl/statsviz](https://github.com/arl/statsviz) - 🚀 Visualise your Go program runtime metrics in real time in the browser (1 week ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (1 week ago)
-- [redis/rueidis](https://github.com/redis/rueidis) - A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc. (3 weeks ago)
-- [bones-ai/rust-snake-ai-ratatui](https://github.com/bones-ai/rust-snake-ai-ratatui) - Neural network learns to play snake in a terminal, built in Rust with Ratatui (4 weeks ago)
+- [redis/rueidis](https://github.com/redis/rueidis) - A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc. (4 weeks ago)
+- [bones-ai/rust-snake-ai-ratatui](https://github.com/bones-ai/rust-snake-ai-ratatui) - Neural network learns to play snake in a terminal, built in Rust with Ratatui (1 month ago)
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
