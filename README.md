@@ -33,6 +33,7 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### 🔥 Latest releases I've contributed to
 
+- [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.1.0](https://github.com/termkit/skeleton/releases/tag/v0.1.0), today) - The Multi-tab framework of Bubbletea programs!
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.1), 4 days ago) - A powerful little TUI framework 🏗
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.33](https://github.com/kondukto-io/kdt/releases/tag/v1.0.33), 1 month ago) - CLI to interact with Kondukto
 - [termkit/gama](https://github.com/termkit/gama) ([v1.1.4](https://github.com/termkit/gama/releases/tag/v1.1.4), 5 months ago) - Manage your GitHub Actions from Terminal with great UI 🧪
