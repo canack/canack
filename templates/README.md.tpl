@@ -20,27 +20,18 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 ## 🧪 Open Source Projects:
 
 - [termkit/**gama**](https://github.com/termkit/gama): Manage your GitHub Actions in the terminal with ease and efficiency.
+- [termkit/**skeleton**](https://github.com/termkit/skeleton): A multi-tab framework for Bubbletea programs.
 
 ---
 
 #### 🚧 I'm currently working on
-{{range recentContributions 5}}
+{{range recentContributions 4}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🔥 Latest releases I've contributed to
-{{range recentReleases 5}}
+{{range recentReleases 4}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
-
-#### 🔀 My recent Pull Requests
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### ⭐ Recent Stars
-{{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)

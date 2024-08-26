@@ -20,7 +20,7 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 ## 🧪 Open Source Projects:
 
 - [termkit/**gama**](https://github.com/termkit/gama): Manage your GitHub Actions in the terminal with ease and efficiency.
-
+- [termkit/**skeleton**](https://github.com/termkit/skeleton): A multi-tab framework for Bubbletea programs.
 ---
 
 #### 🚧 I'm currently working on
