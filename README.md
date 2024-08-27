@@ -26,16 +26,16 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 
 #### 🚧 I'm currently working on
 
+- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. (today)
+- [charm-community/charm-in-the-wild](https://github.com/charm-community/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there... (today)
 - [termkit/skeleton](https://github.com/termkit/skeleton) - The Multi-tab framework of Bubbletea programs! (1 day ago)
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (2 days ago)
-- [canack/go-redis-sentinel-sample](https://github.com/canack/go-redis-sentinel-sample) - Example of Redis Sentinel and Go implementation (3 weeks ago)
-- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (2 months ago)
 
 #### 🔥 Latest releases I've contributed to
 
+- [Permify/permify](https://github.com/Permify/permify) ([v1.0.4](https://github.com/Permify/permify/releases/tag/v1.0.4), today) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.1.0](https://github.com/termkit/skeleton/releases/tag/v0.1.0), 1 day ago) - The Multi-tab framework of Bubbletea programs!
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.1), 5 days ago) - A powerful little TUI framework 🏗
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.33](https://github.com/kondukto-io/kdt/releases/tag/v1.0.33), 2 months ago) - CLI to interact with Kondukto
-- [termkit/gama](https://github.com/termkit/gama) ([v1.1.4](https://github.com/termkit/gama/releases/tag/v1.1.4), 5 months ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
