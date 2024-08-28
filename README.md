@@ -27,15 +27,15 @@ To harness my accumulated skills for developing robust, scalable, and innovative
 #### 🚧 I'm currently working on
 
 - [vmware-tanzu/secrets-manager](https://github.com/vmware-tanzu/secrets-manager) - VMware Secrets Manager is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/ (today)
-- [charm-community/charm-in-the-wild](https://github.com/charm-community/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there... (today)
-- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. (today)
-- [termkit/skeleton](https://github.com/termkit/skeleton) - The Multi-tab framework of Bubbletea programs! (1 day ago)
+- [charm-community/charm-in-the-wild](https://github.com/charm-community/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there... (1 day ago)
+- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. (1 day ago)
+- [termkit/skeleton](https://github.com/termkit/skeleton) - The Multi-tab framework of Bubbletea programs! (2 days ago)
 
 #### 🔥 Latest releases I've contributed to
 
-- [Permify/permify](https://github.com/Permify/permify) ([v1.0.4](https://github.com/Permify/permify/releases/tag/v1.0.4), today) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
-- [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.1.0](https://github.com/termkit/skeleton/releases/tag/v0.1.0), 1 day ago) - The Multi-tab framework of Bubbletea programs!
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.1), 5 days ago) - A powerful little TUI framework 🏗
+- [Permify/permify](https://github.com/Permify/permify) ([v1.0.4](https://github.com/Permify/permify/releases/tag/v1.0.4), 1 day ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+- [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.1.0](https://github.com/termkit/skeleton/releases/tag/v0.1.0), 2 days ago) - The Multi-tab framework of Bubbletea programs!
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.1), 6 days ago) - A powerful little TUI framework 🏗
 - [vmware-tanzu/secrets-manager](https://github.com/vmware-tanzu/secrets-manager) ([v0.27.0](https://github.com/vmware-tanzu/secrets-manager/releases/tag/v0.27.0), 1 month ago) - VMware Secrets Manager is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
