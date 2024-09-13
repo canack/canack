@@ -1,21 +1,10 @@
-Hi 👋\
-I'm Engin, a software engineer with a deep focus on creating performant and efficient software solutions. My experience primarily revolves around Go, but I'm expanding my horizons by integrating Rust into my repertoire.
+# Hi, I'm Engin 👋
 
-## 📌 Expertise:
+I'm a software engineer specializing in creating performant and efficient software solutions. My primary expertise is in Go, and I'm currently expanding my skills to include Rust.
 
-- **Cloud Platforms**: AWS, Azure
-- **Distributed Architectures**: Design & Maintenance
-- **Microservices**: Creation & Management
-- **Containers**: Mastery in Docker & Kubernetes
-- **Languages**: Proficiency in Go and Rust
-- **CI/CD**: Expertise with Github Actions
-- **Version Control**: Advanced Git skills
-- **Database Tech**: Experience with NoSQL databases
-- **Operating Systems**: Linux Administration
+## About Me
 
-## 🎯 Mission:
-
-To harness my accumulated skills for developing robust, scalable, and innovative software applications and systems. Always on the lookout for challenges that further my professional growth and bring meaningful impact to the software landscape.
+I am dedicated to developing scalable and innovative software solutions. I enjoy tackling complex problems and contributing to projects that make a meaningful impact.
 
 ## 🧪 Open Source Projects:
 
