@@ -15,11 +15,11 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🚧 I'm currently working on
 
+- [canack/nats-header-problem](https://github.com/canack/nats-header-problem) - The example code that gives panic (today)
 - [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system. (1 week ago)
 - [bayraktugrul/modview](https://github.com/bayraktugrul/modview) - Effortlessly visualize mod graph with all external dependencies for your Go projects (2 weeks ago)
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (3 weeks ago)
 - [termkit/skeleton](https://github.com/termkit/skeleton) - The Multi-tab framework of Bubbletea programs! (1 month ago)
-- [vmware-tanzu/secrets-manager](https://github.com/vmware-tanzu/secrets-manager) - VMware Secrets Manager is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/ (1 month ago)
 
 #### 🔥 Latest releases I've contributed to
 
