@@ -23,7 +23,7 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🔥 Latest releases I've contributed to
 
-- [bayraktugrul/modview](https://github.com/bayraktugrul/modview) ([v1.2.1](https://github.com/bayraktugrul/modview/releases/tag/v1.2.1), 1 day ago) - Effortlessly visualize mod graph with all external dependencies for your Go projects
+- [bayraktugrul/modview](https://github.com/bayraktugrul/modview) ([v1.2.2](https://github.com/bayraktugrul/modview/releases/tag/v1.2.2), today) - Effortlessly visualize mod graph with all external dependencies for your Go projects
 - [vmware-tanzu/secrets-manager](https://github.com/vmware-tanzu/secrets-manager) ([v0.27.3](https://github.com/vmware-tanzu/secrets-manager/releases/tag/v0.27.3), 2 days ago) - VMware Secrets Manager is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.34.3](https://github.com/kondukto-io/kdt/releases/tag/v1.0.34.3), 5 days ago) - CLI to interact with Kondukto
 - [Permify/permify](https://github.com/Permify/permify) ([v1.1.2](https://github.com/Permify/permify/releases/tag/v1.1.2), 6 days ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
