@@ -23,10 +23,10 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🔥 Latest releases I've contributed to
 
+- [vmware-tanzu/secrets-manager](https://github.com/vmware-tanzu/secrets-manager) ([v0.28.0](https://github.com/vmware-tanzu/secrets-manager/releases/tag/v0.28.0), today) - VMware Secrets Manager is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.35.1](https://github.com/kondukto-io/kdt/releases/tag/v1.0.35.1), 6 days ago) - CLI to interact with Kondukto
 - [Permify/permify](https://github.com/Permify/permify) ([v1.1.3](https://github.com/Permify/permify/releases/tag/v1.1.3), 1 week ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [bayraktugrul/modview](https://github.com/bayraktugrul/modview) ([v1.2.2](https://github.com/bayraktugrul/modview/releases/tag/v1.2.2), 1 week ago) - Effortlessly visualize mod graph with all external dependencies for your Go projects
-- [vmware-tanzu/secrets-manager](https://github.com/vmware-tanzu/secrets-manager) ([v0.27.3](https://github.com/vmware-tanzu/secrets-manager/releases/tag/v0.27.3), 1 week ago) - VMware Secrets Manager is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v2.0.0-alpha.1](https://github.com/charmbracelet/bubbletea/releases/tag/v2.0.0-alpha.1), 4 weeks ago) - A powerful little TUI framework 🏗
 - [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.1.2](https://github.com/termkit/skeleton/releases/tag/v0.1.2), 1 month ago) - The Multi-tab framework of Bubbletea programs!
 - [nats-io/nats.go](https://github.com/nats-io/nats.go) ([v1.37.0](https://github.com/nats-io/nats.go/releases/tag/v1.37.0), 2 months ago) - Golang client for NATS, the cloud native messaging system.
