@@ -23,7 +23,7 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🔥 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.3), 4 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.3](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.3), 5 days ago) - A powerful little TUI framework 🏗
 - [Permify/permify](https://github.com/Permify/permify) ([v1.2.2](https://github.com/Permify/permify/releases/tag/v1.2.2), 1 week ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.37](https://github.com/kondukto-io/kdt/releases/tag/v1.0.37), 1 week ago) - CLI to interact with Kondukto
 - [vmware-tanzu/secrets-manager](https://github.com/vmware-tanzu/secrets-manager) ([v0.28.0](https://github.com/vmware-tanzu/secrets-manager/releases/tag/v0.28.0), 1 month ago) - VMware Secrets Manager is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/
