@@ -23,7 +23,7 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🔥 Latest releases I've contributed to
 
-- [bayraktugrul/modview](https://github.com/bayraktugrul/modview) ([v1.2.4](https://github.com/bayraktugrul/modview/releases/tag/v1.2.4), 5 days ago) - Effortlessly visualize mod graph with all external dependencies for your Go projects
+- [bayraktugrul/modview](https://github.com/bayraktugrul/modview) ([v1.2.4](https://github.com/bayraktugrul/modview/releases/tag/v1.2.4), 6 days ago) - Effortlessly visualize mod graph with all external dependencies for your Go projects
 - [Permify/permify](https://github.com/Permify/permify) ([v1.2.3](https://github.com/Permify/permify/releases/tag/v1.2.3), 1 week ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.38](https://github.com/kondukto-io/kdt/releases/tag/v1.0.38), 1 week ago) - CLI to interact with Kondukto
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), 1 week ago) - A powerful little TUI framework 🏗
