@@ -23,10 +23,10 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🔥 Latest releases I've contributed to
 
+- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.39](https://github.com/kondukto-io/kdt/releases/tag/v1.0.39), today) - CLI to interact with Kondukto
 - [Permify/permify](https://github.com/Permify/permify) ([v1.2.4](https://github.com/Permify/permify/releases/tag/v1.2.4), today) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [nats-io/nats.go](https://github.com/nats-io/nats.go) ([v1.38.0](https://github.com/nats-io/nats.go/releases/tag/v1.38.0), 1 day ago) - Golang client for NATS, the cloud native messaging system.
 - [bayraktugrul/modview](https://github.com/bayraktugrul/modview) ([v1.2.4](https://github.com/bayraktugrul/modview/releases/tag/v1.2.4), 2 weeks ago) - Effortlessly visualize mod graph with all external dependencies for your Go projects
-- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.0.38](https://github.com/kondukto-io/kdt/releases/tag/v1.0.38), 3 weeks ago) - CLI to interact with Kondukto
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), 3 weeks ago) - A powerful little TUI framework 🏗
 - [vmware-tanzu/secrets-manager](https://github.com/vmware-tanzu/secrets-manager) ([v0.28.0](https://github.com/vmware-tanzu/secrets-manager/releases/tag/v0.28.0), 2 months ago) - VMware Secrets Manager is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/
 - [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.1.2](https://github.com/termkit/skeleton/releases/tag/v0.1.2), 3 months ago) - The Multi-tab framework of Bubbletea programs!
