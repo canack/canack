@@ -15,7 +15,7 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🚧 I'm currently working on
 
-- [termkit/skeleton](https://github.com/termkit/skeleton) - The Multi-tab framework of Bubbletea programs! (today)
+- [termkit/skeleton](https://github.com/termkit/skeleton) - The Multi-tab framework of Bubbletea programs! (1 day ago)
 - [kondukto-io/webhook-issue-manager](https://github.com/kondukto-io/webhook-issue-manager) -  (2 weeks ago)
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (1 month ago)
 - [canack/nats-header-problem](https://github.com/canack/nats-header-problem) - The example code that gives panic (3 months ago)
@@ -23,8 +23,8 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🔥 Latest releases I've contributed to
 
-- [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.2.0](https://github.com/termkit/skeleton/releases/tag/v0.2.0), today) - The Multi-tab framework of Bubbletea programs!
-- [Permify/permify](https://github.com/Permify/permify) ([v1.2.5](https://github.com/Permify/permify/releases/tag/v1.2.5), 2 days ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+- [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.2.0](https://github.com/termkit/skeleton/releases/tag/v0.2.0), 1 day ago) - The Multi-tab framework of Bubbletea programs!
+- [Permify/permify](https://github.com/Permify/permify) ([v1.2.5](https://github.com/Permify/permify/releases/tag/v1.2.5), 3 days ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.40.0](https://github.com/kondukto-io/kdt/releases/tag/v1.40.0), 1 week ago) - CLI to interact with Kondukto
 - [nats-io/nats.go](https://github.com/nats-io/nats.go) ([v1.38.0](https://github.com/nats-io/nats.go/releases/tag/v1.38.0), 2 weeks ago) - Golang client for NATS, the cloud native messaging system.
 - [bayraktugrul/modview](https://github.com/bayraktugrul/modview) ([v1.2.4](https://github.com/bayraktugrul/modview/releases/tag/v1.2.4), 1 month ago) - Effortlessly visualize mod graph with all external dependencies for your Go projects
