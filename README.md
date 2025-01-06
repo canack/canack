@@ -28,7 +28,6 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.40.0](https://github.com/kondukto-io/kdt/releases/tag/v1.40.0), 1 week ago) - CLI to interact with Kondukto
 - [nats-io/nats.go](https://github.com/nats-io/nats.go) ([v1.38.0](https://github.com/nats-io/nats.go/releases/tag/v1.38.0), 2 weeks ago) - Golang client for NATS, the cloud native messaging system.
 - [bayraktugrul/modview](https://github.com/bayraktugrul/modview) ([v1.2.4](https://github.com/bayraktugrul/modview/releases/tag/v1.2.4), 1 month ago) - Effortlessly visualize mod graph with all external dependencies for your Go projects
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.2.4](https://github.com/charmbracelet/bubbletea/releases/tag/v1.2.4), 1 month ago) - A powerful little TUI framework 🏗
 - [vmware-tanzu/secrets-manager](https://github.com/vmware-tanzu/secrets-manager) ([v0.28.0](https://github.com/vmware-tanzu/secrets-manager/releases/tag/v0.28.0), 2 months ago) - VMware Secrets Manager is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/
 - [termkit/gama](https://github.com/termkit/gama) ([v1.1.4](https://github.com/termkit/gama/releases/tag/v1.1.4), 9 months ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 
