@@ -15,15 +15,15 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🚧 I'm currently working on
 
-- [termkit/skeleton](https://github.com/termkit/skeleton) - The Multi-tab framework of Bubbletea programs! (4 days ago)
-- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (5 days ago)
+- [termkit/skeleton](https://github.com/termkit/skeleton) - The Multi-tab framework of Bubbletea programs! (5 days ago)
+- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (6 days ago)
 - [kondukto-io/webhook-issue-manager](https://github.com/kondukto-io/webhook-issue-manager) -  (3 weeks ago)
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (2 months ago)
 - [canack/nats-header-problem](https://github.com/canack/nats-header-problem) - The example code that gives panic (3 months ago)
 
 #### 🔥 Latest releases I've contributed to
 
-- [termkit/gama](https://github.com/termkit/gama) ([v1.2.0](https://github.com/termkit/gama/releases/tag/v1.2.0), 5 days ago) - Manage your GitHub Actions from Terminal with great UI 🧪
+- [termkit/gama](https://github.com/termkit/gama) ([v1.2.0](https://github.com/termkit/gama/releases/tag/v1.2.0), 6 days ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.2.0](https://github.com/termkit/skeleton/releases/tag/v0.2.0), 1 week ago) - The Multi-tab framework of Bubbletea programs!
 - [Permify/permify](https://github.com/Permify/permify) ([v1.2.5](https://github.com/Permify/permify/releases/tag/v1.2.5), 1 week ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.40.0](https://github.com/kondukto-io/kdt/releases/tag/v1.40.0), 2 weeks ago) - CLI to interact with Kondukto
