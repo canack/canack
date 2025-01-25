@@ -15,15 +15,15 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🚧 I'm currently working on
 
-- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (4 days ago)
-- [termkit/skeleton](https://github.com/termkit/skeleton) - The Multi-tab framework of Bubbletea programs! (4 days ago)
-- [workflowkit/issue-assistant](https://github.com/workflowkit/issue-assistant) -  (4 days ago)
+- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (5 days ago)
+- [termkit/skeleton](https://github.com/termkit/skeleton) - The Multi-tab framework of Bubbletea programs! (5 days ago)
+- [workflowkit/issue-assistant](https://github.com/workflowkit/issue-assistant) -  (5 days ago)
 - [kondukto-io/webhook-issue-manager](https://github.com/kondukto-io/webhook-issue-manager) -  (1 month ago)
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (2 months ago)
 
 #### 🔥 Latest releases I've contributed to
 
-- [workflowkit/issue-assistant](https://github.com/workflowkit/issue-assistant) ([v1.0.0](https://github.com/workflowkit/issue-assistant/releases/tag/v1.0.0), 5 days ago) - 
+- [workflowkit/issue-assistant](https://github.com/workflowkit/issue-assistant) ([v1.0.0](https://github.com/workflowkit/issue-assistant/releases/tag/v1.0.0), 6 days ago) - 
 - [Permify/permify](https://github.com/Permify/permify) ([v1.2.7](https://github.com/Permify/permify/releases/tag/v1.2.7), 1 week ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [termkit/gama](https://github.com/termkit/gama) ([v1.2.1](https://github.com/termkit/gama/releases/tag/v1.2.1), 1 week ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.2.0](https://github.com/termkit/skeleton/releases/tag/v0.2.0), 2 weeks ago) - The Multi-tab framework of Bubbletea programs!
