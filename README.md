@@ -23,9 +23,9 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🔥 Latest releases I've contributed to
 
+- [Permify/permify](https://github.com/Permify/permify) ([v1.2.8](https://github.com/Permify/permify/releases/tag/v1.2.8), today) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [vmware-tanzu/secrets-manager](https://github.com/vmware-tanzu/secrets-manager) ([v0.28.1](https://github.com/vmware-tanzu/secrets-manager/releases/tag/v0.28.1), 2 days ago) - VMware Secrets Manager is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/
 - [workflowkit/issue-assistant](https://github.com/workflowkit/issue-assistant) ([v1.0.0](https://github.com/workflowkit/issue-assistant/releases/tag/v1.0.0), 1 week ago) - 
-- [Permify/permify](https://github.com/Permify/permify) ([v1.2.7](https://github.com/Permify/permify/releases/tag/v1.2.7), 1 week ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [termkit/gama](https://github.com/termkit/gama) ([v1.2.1](https://github.com/termkit/gama/releases/tag/v1.2.1), 1 week ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.2.0](https://github.com/termkit/skeleton/releases/tag/v0.2.0), 3 weeks ago) - The Multi-tab framework of Bubbletea programs!
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.40.0](https://github.com/kondukto-io/kdt/releases/tag/v1.40.0), 1 month ago) - CLI to interact with Kondukto
