@@ -18,8 +18,8 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 - [workflowkit/issue-assistant](https://github.com/workflowkit/issue-assistant) -  (1 week ago)
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (2 weeks ago)
 - [termkit/skeleton](https://github.com/termkit/skeleton) - The Multi-tab framework of Bubbletea programs! (2 weeks ago)
+- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (2 weeks ago)
 - [kondukto-io/webhook-issue-manager](https://github.com/kondukto-io/webhook-issue-manager) -  (1 month ago)
-- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (2 months ago)
 
 #### 🔥 Latest releases I've contributed to
 
