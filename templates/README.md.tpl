@@ -10,6 +10,7 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 - [**gama**](https://github.com/termkit/gama): Manage GitHub Actions directly from the terminal.
 - [**skeleton**](https://github.com/termkit/skeleton): A multi-tab framework for BubbleTea programs.
+- [**issue-assistant**](https://github.com/workflowkit/issue-assistant): AI assistant for GitHub issues.
 
 ## Recent Work
 
