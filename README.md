@@ -24,7 +24,7 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🔥 Latest releases I've contributed to
 
-- [nats-io/nats.go](https://github.com/nats-io/nats.go) ([v1.41.0](https://github.com/nats-io/nats.go/releases/tag/v1.41.0), today) - Golang client for NATS, the cloud native messaging system.
+- [nats-io/nats.go](https://github.com/nats-io/nats.go) ([v1.41.0](https://github.com/nats-io/nats.go/releases/tag/v1.41.0), 1 day ago) - Golang client for NATS, the cloud native messaging system.
 - [Permify/permify](https://github.com/Permify/permify) ([v1.3.6](https://github.com/Permify/permify/releases/tag/v1.3.6), 1 week ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.42.0](https://github.com/kondukto-io/kdt/releases/tag/v1.42.0), 1 week ago) - CLI to interact with Kondukto
 - [vmware-tanzu/secrets-manager](https://github.com/vmware-tanzu/secrets-manager) ([v0.28.1](https://github.com/vmware-tanzu/secrets-manager/releases/tag/v0.28.1), 2 months ago) - VMware Secrets Manager is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/
