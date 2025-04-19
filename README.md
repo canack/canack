@@ -24,11 +24,11 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🔥 Latest releases I've contributed to
 
-- [nats-io/nats.go](https://github.com/nats-io/nats.go) ([v1.41.2](https://github.com/nats-io/nats.go/releases/tag/v1.41.2), 1 day ago) - Golang client for NATS, the cloud native messaging system.
-- [Permify/permify](https://github.com/Permify/permify) ([v1.3.7](https://github.com/Permify/permify/releases/tag/v1.3.7), 1 day ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+- [nats-io/nats.go](https://github.com/nats-io/nats.go) ([v1.41.2](https://github.com/nats-io/nats.go/releases/tag/v1.41.2), 2 days ago) - Golang client for NATS, the cloud native messaging system.
+- [Permify/permify](https://github.com/Permify/permify) ([v1.3.7](https://github.com/Permify/permify/releases/tag/v1.3.7), 2 days ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.42.0](https://github.com/kondukto-io/kdt/releases/tag/v1.42.0), 3 weeks ago) - CLI to interact with Kondukto
 - [vmware-tanzu/secrets-manager](https://github.com/vmware-tanzu/secrets-manager) ([v0.28.1](https://github.com/vmware-tanzu/secrets-manager/releases/tag/v0.28.1), 2 months ago) - VMware Secrets Manager is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/
-- [workflowkit/issue-assistant](https://github.com/workflowkit/issue-assistant) ([v1.0.0](https://github.com/workflowkit/issue-assistant/releases/tag/v1.0.0), 2 months ago) - AI Assistant for your GitHub issues. 🤖
+- [workflowkit/issue-assistant](https://github.com/workflowkit/issue-assistant) ([v1.0.0](https://github.com/workflowkit/issue-assistant/releases/tag/v1.0.0), 3 months ago) - AI Assistant for your GitHub issues. 🤖
 - [termkit/gama](https://github.com/termkit/gama) ([v1.2.1](https://github.com/termkit/gama/releases/tag/v1.2.1), 3 months ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.2.0](https://github.com/termkit/skeleton/releases/tag/v0.2.0), 3 months ago) - The Multi-tab framework of Bubbletea programs!
 - [bayraktugrul/modview](https://github.com/bayraktugrul/modview) ([v1.2.4](https://github.com/bayraktugrul/modview/releases/tag/v1.2.4), 4 months ago) - Effortlessly visualize mod graph with all external dependencies for your Go projects
