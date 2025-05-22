@@ -16,7 +16,7 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🚧 I'm currently working on
 
-- [kondukto-io/webhook-issue-manager](https://github.com/kondukto-io/webhook-issue-manager) -  (6 days ago)
+- [kondukto-io/webhook-issue-manager](https://github.com/kondukto-io/webhook-issue-manager) -  (1 week ago)
 - [kondukto-io/kntrl](https://github.com/kondukto-io/kntrl) - kntrl is an eBPF based runtime agent that monitors and prevents anomalous behaviour defined by you on your pipeline. kntrl achieves this by monitoring kernel calls, and denying access as soon as your defined behaviour is detected. For more: https://kntrl.dev (2 months ago)
 - [termkit/skeleton](https://github.com/termkit/skeleton) - The Multi-tab framework of Bubbletea programs! (2 months ago)
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (2 months ago)
@@ -24,7 +24,7 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🔥 Latest releases I've contributed to
 
-- [Permify/permify](https://github.com/Permify/permify) ([v1.3.9](https://github.com/Permify/permify/releases/tag/v1.3.9), 6 days ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+- [Permify/permify](https://github.com/Permify/permify) ([v1.3.9](https://github.com/Permify/permify/releases/tag/v1.3.9), 1 week ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [kondukto-io/kntrl](https://github.com/kondukto-io/kntrl) ([v0.1.4](https://github.com/kondukto-io/kntrl/releases/tag/v0.1.4), 1 week ago) - kntrl is an eBPF based runtime agent that monitors and prevents anomalous behaviour defined by you on your pipeline. kntrl achieves this by monitoring kernel calls, and denying access as soon as your defined behaviour is detected. For more: https://kntrl.dev
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.42.3](https://github.com/kondukto-io/kdt/releases/tag/v1.42.3), 2 weeks ago) - CLI to interact with Kondukto
 - [nats-io/nats.go](https://github.com/nats-io/nats.go) ([v1.42.0](https://github.com/nats-io/nats.go/releases/tag/v1.42.0), 2 weeks ago) - Golang client for NATS, the cloud native messaging system.
