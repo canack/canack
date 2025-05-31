@@ -16,15 +16,15 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🚧 I'm currently working on
 
-- [termkit/skeleton](https://github.com/termkit/skeleton) - The Multi-tab framework of Bubbletea programs! (6 days ago)
-- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (6 days ago)
+- [termkit/skeleton](https://github.com/termkit/skeleton) - The Multi-tab framework of Bubbletea programs! (1 week ago)
+- [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (1 week ago)
 - [kondukto-io/webhook-issue-manager](https://github.com/kondukto-io/webhook-issue-manager) -  (2 weeks ago)
 - [kondukto-io/kntrl](https://github.com/kondukto-io/kntrl) - kntrl is an eBPF based runtime agent that monitors and prevents anomalous behaviour defined by you on your pipeline. kntrl achieves this by monitoring kernel calls, and denying access as soon as your defined behaviour is detected. For more: https://kntrl.dev (2 months ago)
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (3 months ago)
 
 #### 🔥 Latest releases I've contributed to
 
-- [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.2.2](https://github.com/termkit/skeleton/releases/tag/v0.2.2), 6 days ago) - The Multi-tab framework of Bubbletea programs!
+- [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.2.2](https://github.com/termkit/skeleton/releases/tag/v0.2.2), 1 week ago) - The Multi-tab framework of Bubbletea programs!
 - [Permify/permify](https://github.com/Permify/permify) ([v1.3.9](https://github.com/Permify/permify/releases/tag/v1.3.9), 2 weeks ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [kondukto-io/kntrl](https://github.com/kondukto-io/kntrl) ([v0.1.4](https://github.com/kondukto-io/kntrl/releases/tag/v0.1.4), 2 weeks ago) - kntrl is an eBPF based runtime agent that monitors and prevents anomalous behaviour defined by you on your pipeline. kntrl achieves this by monitoring kernel calls, and denying access as soon as your defined behaviour is detected. For more: https://kntrl.dev
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.42.3](https://github.com/kondukto-io/kdt/releases/tag/v1.42.3), 3 weeks ago) - CLI to interact with Kondukto
@@ -32,6 +32,6 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 - [vmware/secrets-manager](https://github.com/vmware/secrets-manager) ([v0.28.1](https://github.com/vmware/secrets-manager/releases/tag/v0.28.1), 4 months ago) - VMware Secrets Manager is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/
 - [workflowkit/issue-assistant](https://github.com/workflowkit/issue-assistant) ([v1.0.0](https://github.com/workflowkit/issue-assistant/releases/tag/v1.0.0), 4 months ago) - AI Assistant for your GitHub issues. 🤖
 - [termkit/gama](https://github.com/termkit/gama) ([v1.2.1](https://github.com/termkit/gama/releases/tag/v1.2.1), 4 months ago) - Manage your GitHub Actions from Terminal with great UI 🧪
-- [bayraktugrul/modview](https://github.com/bayraktugrul/modview) ([v1.2.4](https://github.com/bayraktugrul/modview/releases/tag/v1.2.4), 5 months ago) - Effortlessly visualize mod graph with all external dependencies for your Go projects
+- [bayraktugrul/modview](https://github.com/bayraktugrul/modview) ([v1.2.4](https://github.com/bayraktugrul/modview/releases/tag/v1.2.4), 6 months ago) - Effortlessly visualize mod graph with all external dependencies for your Go projects
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
