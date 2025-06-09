@@ -24,8 +24,8 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🔥 Latest releases I've contributed to
 
-- [Permify/permify](https://github.com/Permify/permify) ([v1.4.0](https://github.com/Permify/permify/releases/tag/v1.4.0), 2 days ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
-- [nats-io/nats.go](https://github.com/nats-io/nats.go) ([v1.43.0](https://github.com/nats-io/nats.go/releases/tag/v1.43.0), 5 days ago) - Golang client for NATS, the cloud native messaging system.
+- [Permify/permify](https://github.com/Permify/permify) ([v1.4.0](https://github.com/Permify/permify/releases/tag/v1.4.0), 3 days ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+- [nats-io/nats.go](https://github.com/nats-io/nats.go) ([v1.43.0](https://github.com/nats-io/nats.go/releases/tag/v1.43.0), 6 days ago) - Golang client for NATS, the cloud native messaging system.
 - [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.2.2](https://github.com/termkit/skeleton/releases/tag/v0.2.2), 2 weeks ago) - The Multi-tab framework of Bubbletea programs!
 - [kondukto-io/kntrl](https://github.com/kondukto-io/kntrl) ([v0.1.4](https://github.com/kondukto-io/kntrl/releases/tag/v0.1.4), 3 weeks ago) - kntrl is an eBPF based runtime agent that monitors and prevents anomalous behaviour defined by you on your pipeline. kntrl achieves this by monitoring kernel calls, and denying access as soon as your defined behaviour is detected. For more: https://kntrl.dev
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.42.3](https://github.com/kondukto-io/kdt/releases/tag/v1.42.3), 1 month ago) - CLI to interact with Kondukto
