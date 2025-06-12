@@ -18,16 +18,16 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 - [termkit/skeleton](https://github.com/termkit/skeleton) - The Multi-tab framework of Bubbletea programs! (2 weeks ago)
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (2 weeks ago)
-- [kondukto-io/webhook-issue-manager](https://github.com/kondukto-io/webhook-issue-manager) -  (3 weeks ago)
+- [kondukto-io/webhook-issue-manager](https://github.com/kondukto-io/webhook-issue-manager) -  (4 weeks ago)
 - [kondukto-io/kntrl](https://github.com/kondukto-io/kntrl) - kntrl is an eBPF based runtime agent that monitors and prevents anomalous behaviour defined by you on your pipeline. kntrl achieves this by monitoring kernel calls, and denying access as soon as your defined behaviour is detected. For more: https://kntrl.dev (2 months ago)
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (4 months ago)
 
 #### 🔥 Latest releases I've contributed to
 
-- [Permify/permify](https://github.com/Permify/permify) ([v1.4.0](https://github.com/Permify/permify/releases/tag/v1.4.0), 5 days ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+- [Permify/permify](https://github.com/Permify/permify) ([v1.4.0](https://github.com/Permify/permify/releases/tag/v1.4.0), 6 days ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [nats-io/nats.go](https://github.com/nats-io/nats.go) ([v1.43.0](https://github.com/nats-io/nats.go/releases/tag/v1.43.0), 1 week ago) - Golang client for NATS, the cloud native messaging system.
 - [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.2.2](https://github.com/termkit/skeleton/releases/tag/v0.2.2), 2 weeks ago) - The Multi-tab framework of Bubbletea programs!
-- [kondukto-io/kntrl](https://github.com/kondukto-io/kntrl) ([v0.1.4](https://github.com/kondukto-io/kntrl/releases/tag/v0.1.4), 4 weeks ago) - kntrl is an eBPF based runtime agent that monitors and prevents anomalous behaviour defined by you on your pipeline. kntrl achieves this by monitoring kernel calls, and denying access as soon as your defined behaviour is detected. For more: https://kntrl.dev
+- [kondukto-io/kntrl](https://github.com/kondukto-io/kntrl) ([v0.1.4](https://github.com/kondukto-io/kntrl/releases/tag/v0.1.4), 1 month ago) - kntrl is an eBPF based runtime agent that monitors and prevents anomalous behaviour defined by you on your pipeline. kntrl achieves this by monitoring kernel calls, and denying access as soon as your defined behaviour is detected. For more: https://kntrl.dev
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.42.3](https://github.com/kondukto-io/kdt/releases/tag/v1.42.3), 1 month ago) - CLI to interact with Kondukto
 - [vmware/secrets-manager](https://github.com/vmware/secrets-manager) ([v0.28.1](https://github.com/vmware/secrets-manager/releases/tag/v0.28.1), 4 months ago) - VMware Secrets Manager is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/
 - [workflowkit/issue-assistant](https://github.com/workflowkit/issue-assistant) ([v1.0.0](https://github.com/workflowkit/issue-assistant/releases/tag/v1.0.0), 4 months ago) - AI Assistant for your GitHub issues. 🤖
