@@ -18,7 +18,7 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 - [termkit/skeleton](https://github.com/termkit/skeleton) - The Multi-tab framework of Bubbletea programs! (1 month ago)
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (1 month ago)
-- [kondukto-io/webhook-issue-manager](https://github.com/kondukto-io/webhook-issue-manager) -  (1 month ago)
+- [kondukto-io/webhook-issue-manager](https://github.com/kondukto-io/webhook-issue-manager) -  (2 months ago)
 - [kondukto-io/kntrl](https://github.com/kondukto-io/kntrl) - kntrl is an eBPF based runtime agent that monitors and prevents anomalous behaviour defined by you on your pipeline. kntrl achieves this by monitoring kernel calls, and denying access as soon as your defined behaviour is detected. For more: https://kntrl.dev (3 months ago)
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (5 months ago)
 
@@ -31,7 +31,7 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.42.3](https://github.com/kondukto-io/kdt/releases/tag/v1.42.3), 2 months ago) - CLI to interact with Kondukto
 - [vmware/secrets-manager](https://github.com/vmware/secrets-manager) ([v0.28.1](https://github.com/vmware/secrets-manager/releases/tag/v0.28.1), 5 months ago) - VMware Secrets Manager is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/
 - [workflowkit/issue-assistant](https://github.com/workflowkit/issue-assistant) ([v1.0.0](https://github.com/workflowkit/issue-assistant/releases/tag/v1.0.0), 5 months ago) - AI Assistant for your GitHub issues. 🤖
-- [termkit/gama](https://github.com/termkit/gama) ([v1.2.1](https://github.com/termkit/gama/releases/tag/v1.2.1), 5 months ago) - Manage your GitHub Actions from Terminal with great UI 🧪
+- [termkit/gama](https://github.com/termkit/gama) ([v1.2.1](https://github.com/termkit/gama/releases/tag/v1.2.1), 6 months ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 - [bayraktugrul/modview](https://github.com/bayraktugrul/modview) ([v1.2.4](https://github.com/bayraktugrul/modview/releases/tag/v1.2.4), 7 months ago) - Effortlessly visualize mod graph with all external dependencies for your Go projects
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
