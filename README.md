@@ -24,8 +24,8 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🔥 Latest releases I've contributed to
 
-- [Permify/permify](https://github.com/Permify/permify) ([v1.4.3](https://github.com/Permify/permify/releases/tag/v1.4.3), 4 days ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
-- [nats-io/nats.go](https://github.com/nats-io/nats.go) ([v1.45.0](https://github.com/nats-io/nats.go/releases/tag/v1.45.0), 5 days ago) - Golang client for NATS, the cloud native messaging system.
+- [Permify/permify](https://github.com/Permify/permify) ([v1.4.3](https://github.com/Permify/permify/releases/tag/v1.4.3), 5 days ago) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+- [nats-io/nats.go](https://github.com/nats-io/nats.go) ([v1.45.0](https://github.com/nats-io/nats.go/releases/tag/v1.45.0), 6 days ago) - Golang client for NATS, the cloud native messaging system.
 - [vmware/secrets-manager](https://github.com/vmware/secrets-manager) ([v02.0.0-rev5-DO-NOT-USE](https://github.com/vmware/secrets-manager/releases/tag/v02.0.0-rev5-DO-NOT-USE), 4 weeks ago) - VMware Secrets Manager is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.42.5](https://github.com/kondukto-io/kdt/releases/tag/v1.42.5), 1 month ago) - CLI to interact with Kondukto
 - [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.2.2](https://github.com/termkit/skeleton/releases/tag/v0.2.2), 3 months ago) - The Multi-tab framework of Bubbletea programs!
