@@ -30,6 +30,5 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 - [kondukto-io/kntrl](https://github.com/kondukto-io/kntrl) ([v0.1.4](https://github.com/kondukto-io/kntrl/releases/tag/v0.1.4), 4 months ago) - kntrl is an eBPF based runtime agent that monitors and prevents anomalous behaviour defined by you on your pipeline. kntrl achieves this by monitoring kernel calls, and denying access as soon as your defined behaviour is detected. For more: https://kntrl.dev
 - [workflowkit/issue-assistant](https://github.com/workflowkit/issue-assistant) ([v1.0.0](https://github.com/workflowkit/issue-assistant/releases/tag/v1.0.0), 7 months ago) - AI Assistant for your GitHub issues. 🤖
 - [termkit/gama](https://github.com/termkit/gama) ([v1.2.1](https://github.com/termkit/gama/releases/tag/v1.2.1), 8 months ago) - Manage your GitHub Actions from Terminal with great UI 🧪
-- [bayraktugrul/modview](https://github.com/bayraktugrul/modview) ([v1.2.4](https://github.com/bayraktugrul/modview/releases/tag/v1.2.4), 9 months ago) - Effortlessly visualize mod graph with all external dependencies for your Go projects
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
