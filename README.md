@@ -24,7 +24,6 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🔥 Latest releases I've contributed to
 
-- [nats-io/nats.go](https://github.com/nats-io/nats.go) ([v1.45.0](https://github.com/nats-io/nats.go/releases/tag/v1.45.0), 1 month ago) - Golang client for NATS, the cloud native messaging system.
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.42.5](https://github.com/kondukto-io/kdt/releases/tag/v1.42.5), 1 month ago) - CLI to interact with Kondukto
 - [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.2.2](https://github.com/termkit/skeleton/releases/tag/v0.2.2), 3 months ago) - The Multi-tab framework of Bubbletea programs!
 - [kondukto-io/kntrl](https://github.com/kondukto-io/kntrl) ([v0.1.4](https://github.com/kondukto-io/kntrl/releases/tag/v0.1.4), 4 months ago) - kntrl is an eBPF based runtime agent that monitors and prevents anomalous behaviour defined by you on your pipeline. kntrl achieves this by monitoring kernel calls, and denying access as soon as your defined behaviour is detected. For more: https://kntrl.dev
