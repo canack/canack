@@ -20,7 +20,7 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 - [termkit/skeleton](https://github.com/termkit/skeleton) - The Multi-tab framework of Bubbletea programs! (5 months ago)
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (5 months ago)
 - [kondukto-io/webhook-issue-manager](https://github.com/kondukto-io/webhook-issue-manager) -  (6 months ago)
-- [kondukto-io/kntrl](https://github.com/kondukto-io/kntrl) - kntrl is an eBPF based runtime agent that monitors and prevents anomalous behaviour defined by you on your pipeline. kntrl achieves this by monitoring kernel calls, and denying access as soon as your defined behaviour is detected. For more: https://kntrl.dev (7 months ago)
+- [kondukto-io/kntrl](https://github.com/kondukto-io/kntrl) - kntrl is an eBPF based runtime agent that monitors and prevents anomalous behaviour defined by you on your pipeline. kntrl achieves this by monitoring kernel calls, and denying access as soon as your defined behaviour is detected. For more: https://kntrl.dev (8 months ago)
 
 #### 🔥 Latest releases I've contributed to
 
