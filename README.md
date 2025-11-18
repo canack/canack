@@ -16,14 +16,15 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🚧 I'm currently working on
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (today)
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (2 months ago)
 - [termkit/skeleton](https://github.com/termkit/skeleton) - The Multi-tab framework of Bubbletea programs! (5 months ago)
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (5 months ago)
 - [kondukto-io/webhook-issue-manager](https://github.com/kondukto-io/webhook-issue-manager) -  (6 months ago)
-- [kondukto-io/kntrl](https://github.com/kondukto-io/kntrl) - kntrl is an eBPF based runtime agent that monitors and prevents anomalous behaviour defined by you on your pipeline. kntrl achieves this by monitoring kernel calls, and denying access as soon as your defined behaviour is detected. For more: https://kntrl.dev (8 months ago)
 
 #### 🔥 Latest releases I've contributed to
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.213.2-pre](https://github.com/zed-industries/zed/releases/tag/v0.213.2-pre), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.44.0](https://github.com/kondukto-io/kdt/releases/tag/v1.44.0), 1 week ago) - CLI to interact with Kondukto
 - [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.2.2](https://github.com/termkit/skeleton/releases/tag/v0.2.2), 5 months ago) - The Multi-tab framework of Bubbletea programs!
 - [kondukto-io/kntrl](https://github.com/kondukto-io/kntrl) ([v0.1.4](https://github.com/kondukto-io/kntrl/releases/tag/v0.1.4), 6 months ago) - kntrl is an eBPF based runtime agent that monitors and prevents anomalous behaviour defined by you on your pipeline. kntrl achieves this by monitoring kernel calls, and denying access as soon as your defined behaviour is detected. For more: https://kntrl.dev
