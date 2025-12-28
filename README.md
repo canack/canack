@@ -25,7 +25,7 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 #### 🔥 Latest releases I've contributed to
 
 - [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.217.3](https://github.com/zed-industries/zed/releases/tag/v0.217.3), 1 week ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.44.1](https://github.com/kondukto-io/kdt/releases/tag/v1.44.1), 3 weeks ago) - CLI to interact with Kondukto
+- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.44.1](https://github.com/kondukto-io/kdt/releases/tag/v1.44.1), 4 weeks ago) - CLI to interact with Kondukto
 - [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.2.2](https://github.com/termkit/skeleton/releases/tag/v0.2.2), 7 months ago) - The Multi-tab framework of Bubbletea programs!
 - [workflowkit/issue-assistant](https://github.com/workflowkit/issue-assistant) ([v1.0.0](https://github.com/workflowkit/issue-assistant/releases/tag/v1.0.0), 11 months ago) - AI Assistant for your GitHub issues. 🤖
 - [termkit/gama](https://github.com/termkit/gama) ([v1.2.1](https://github.com/termkit/gama/releases/tag/v1.2.1), 11 months ago) - Manage your GitHub Actions from Terminal with great UI 🧪
