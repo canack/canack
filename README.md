@@ -18,13 +18,13 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 - [termkit/skeleton](https://github.com/termkit/skeleton) - The Multi-tab framework of Bubbletea programs! (1 month ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (2 months ago)
-- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (4 months ago)
+- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) - CLI to interact with Kondukto (5 months ago)
 - [termkit/gama](https://github.com/termkit/gama) - Manage your GitHub Actions from Terminal with great UI 🧪 (8 months ago)
 - [kondukto-io/webhook-issue-manager](https://github.com/kondukto-io/webhook-issue-manager) -  (8 months ago)
 
 #### 🔥 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.222.4](https://github.com/zed-industries/zed/releases/tag/v0.222.4), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.222.4](https://github.com/zed-industries/zed/releases/tag/v0.222.4), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.45.0](https://github.com/kondukto-io/kdt/releases/tag/v1.45.0), 1 week ago) - CLI to interact with Kondukto
 - [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.2.2](https://github.com/termkit/skeleton/releases/tag/v0.2.2), 8 months ago) - The Multi-tab framework of Bubbletea programs!
 - [termkit/gama](https://github.com/termkit/gama) ([v1.2.1](https://github.com/termkit/gama/releases/tag/v1.2.1), 1 year ago) - Manage your GitHub Actions from Terminal with great UI 🧪
