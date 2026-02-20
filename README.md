@@ -24,7 +24,7 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🔥 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.224.9](https://github.com/zed-industries/zed/releases/tag/v0.224.9), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.225.5-pre](https://github.com/zed-industries/zed/releases/tag/v0.225.5-pre), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [canack/mcpmap](https://github.com/canack/mcpmap) ([v0.1.1](https://github.com/canack/mcpmap/releases/tag/v0.1.1), 1 day ago) - Discover MCP (Model Context Protocol) servers on network ranges
 - [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.2.2](https://github.com/termkit/skeleton/releases/tag/v0.2.2), 9 months ago) - The Multi-tab framework of Bubbletea programs!
 - [termkit/gama](https://github.com/termkit/gama) ([v1.2.1](https://github.com/termkit/gama/releases/tag/v1.2.1), 1 year ago) - Manage your GitHub Actions from Terminal with great UI 🧪
