@@ -16,16 +16,16 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🚧 I'm currently working on
 
-- [canack/claude-usage-line](https://github.com/canack/claude-usage-line) - Custom status line for Claude Code — rate limits, git branch, cost, diff stats (6 days ago)
+- [canack/claude-usage-line](https://github.com/canack/claude-usage-line) - Custom status line for Claude Code — rate limits, git branch, cost, diff stats (1 week ago)
 - [canack/mcpmap](https://github.com/canack/mcpmap) - Discover MCP (Model Context Protocol) servers on network ranges (1 week ago)
 - [canack/homebrew-tap](https://github.com/canack/homebrew-tap) - Homebrew formulae for canack projects (1 week ago)
 - [canack/bad-mcp](https://github.com/canack/bad-mcp) - 10 intentionally malicious MCP servers that exploit protocol features to attack AI clients. For security research and defense testing. (3 weeks ago)
-- [termkit/skeleton](https://github.com/termkit/skeleton) - The Multi-tab framework of Bubbletea programs! (1 month ago)
+- [termkit/skeleton](https://github.com/termkit/skeleton) - The Multi-tab framework of Bubbletea programs! (2 months ago)
 
 #### 🔥 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.227.0-pre](https://github.com/zed-industries/zed/releases/tag/v0.227.0-pre), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [canack/mcpmap](https://github.com/canack/mcpmap) ([v0.1.1](https://github.com/canack/mcpmap/releases/tag/v0.1.1), 1 week ago) - Discover MCP (Model Context Protocol) servers on network ranges
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.227.0-pre](https://github.com/zed-industries/zed/releases/tag/v0.227.0-pre), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [canack/mcpmap](https://github.com/canack/mcpmap) ([v0.1.1](https://github.com/canack/mcpmap/releases/tag/v0.1.1), 2 weeks ago) - Discover MCP (Model Context Protocol) servers on network ranges
 - [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.2.2](https://github.com/termkit/skeleton/releases/tag/v0.2.2), 9 months ago) - The Multi-tab framework of Bubbletea programs!
 - [termkit/gama](https://github.com/termkit/gama) ([v1.2.1](https://github.com/termkit/gama/releases/tag/v1.2.1), 1 year ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 
