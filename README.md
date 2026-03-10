@@ -16,7 +16,7 @@ I am dedicated to developing scalable and innovative software solutions. I enjoy
 
 #### 🚧 I'm currently working on
 
-- [canack/claude-usage-line](https://github.com/canack/claude-usage-line) - Custom status line for Claude Code — rate limits, git branch, cost, diff stats (1 week ago)
+- [canack/claude-usage-line](https://github.com/canack/claude-usage-line) - Custom status line for Claude Code — rate limits, git branch, cost, diff stats (today)
 - [canack/mcpmap](https://github.com/canack/mcpmap) - Discover MCP (Model Context Protocol) servers on network ranges (2 weeks ago)
 - [canack/homebrew-tap](https://github.com/canack/homebrew-tap) - Homebrew formulae for canack projects (2 weeks ago)
 - [canack/bad-mcp](https://github.com/canack/bad-mcp) - 10 intentionally malicious MCP servers that exploit protocol features to attack AI clients. For security research and defense testing. (4 weeks ago)
