@@ -1,10 +1,6 @@
 # Hi, I'm Engin 👋
 
-I'm a software engineer specializing in creating performant and efficient software solutions. My primary expertise is in Go, and I'm currently expanding my skills to include Rust.
-
-## About Me
-
-I am dedicated to developing scalable and innovative software solutions. I enjoy tackling complex problems and contributing to projects that make a meaningful impact.
+I'm a software engineer specializing in creating performant and efficient software solutions. My primary expertise is in Go & Rust.
 
 ## Open Source Projects
 
