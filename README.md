@@ -20,7 +20,7 @@ I'm a software engineer specializing in creating performant and efficient softwa
 
 #### 🔥 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.230.2](https://github.com/zed-industries/zed/releases/tag/v0.230.2), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.230.2](https://github.com/zed-industries/zed/releases/tag/v0.230.2), 2 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [canack/mcpmap](https://github.com/canack/mcpmap) ([v0.1.1](https://github.com/canack/mcpmap/releases/tag/v0.1.1), 1 month ago) - Discover MCP (Model Context Protocol) servers on network ranges
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.45.0](https://github.com/kondukto-io/kdt/releases/tag/v1.45.0), 2 months ago) - CLI to interact with Kondukto
 - [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.2.2](https://github.com/termkit/skeleton/releases/tag/v0.2.2), 10 months ago) - The Multi-tab framework of Bubbletea programs!
