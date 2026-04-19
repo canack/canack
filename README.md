@@ -12,7 +12,7 @@ I'm a software engineer specializing in creating performant and efficient softwa
 
 #### 🚧 I'm currently working on
 
-- [canack/claude-usage-line](https://github.com/canack/claude-usage-line) - Custom status line for Claude Code — rate limits, git branch, cost, diff stats (2 weeks ago)
+- [canack/claude-usage-line](https://github.com/canack/claude-usage-line) - Custom status line for Claude Code — rate limits, git branch, cost, diff stats (3 weeks ago)
 - [canack/mcpmap](https://github.com/canack/mcpmap) - Discover MCP (Model Context Protocol) servers on network ranges (1 month ago)
 - [canack/homebrew-tap](https://github.com/canack/homebrew-tap) - Homebrew formulae for canack projects (1 month ago)
 - [canack/bad-mcp](https://github.com/canack/bad-mcp) - 10 intentionally malicious MCP servers that exploit protocol features to attack AI clients. For security research and defense testing. (2 months ago)
@@ -20,10 +20,10 @@ I'm a software engineer specializing in creating performant and efficient softwa
 
 #### 🔥 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.233.2-pre](https://github.com/zed-industries/zed/releases/tag/v0.233.2-pre), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v0.233.2-pre](https://github.com/zed-industries/zed/releases/tag/v0.233.2-pre), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [canack/mcpmap](https://github.com/canack/mcpmap) ([v0.1.1](https://github.com/canack/mcpmap/releases/tag/v0.1.1), 1 month ago) - Discover MCP (Model Context Protocol) servers on network ranges
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.45.0](https://github.com/kondukto-io/kdt/releases/tag/v1.45.0), 2 months ago) - CLI to interact with Kondukto
-- [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.2.2](https://github.com/termkit/skeleton/releases/tag/v0.2.2), 10 months ago) - The Multi-tab framework of Bubbletea programs!
+- [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.2.2](https://github.com/termkit/skeleton/releases/tag/v0.2.2), 11 months ago) - The Multi-tab framework of Bubbletea programs!
 - [termkit/gama](https://github.com/termkit/gama) ([v1.2.1](https://github.com/termkit/gama/releases/tag/v1.2.1), 1 year ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
