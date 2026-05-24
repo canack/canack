@@ -24,6 +24,5 @@ I'm a software engineer specializing in creating performant and efficient softwa
 - [canack/mcpmap](https://github.com/canack/mcpmap) ([v0.1.1](https://github.com/canack/mcpmap/releases/tag/v0.1.1), 3 months ago) - Discover MCP (Model Context Protocol) servers on network ranges
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.45.0](https://github.com/kondukto-io/kdt/releases/tag/v1.45.0), 3 months ago) - CLI to interact with Kondukto
 - [termkit/skeleton](https://github.com/termkit/skeleton) ([v0.2.2](https://github.com/termkit/skeleton/releases/tag/v0.2.2), 1 year ago) - The Multi-tab framework of Bubbletea programs!
-- [termkit/gama](https://github.com/termkit/gama) ([v1.2.1](https://github.com/termkit/gama/releases/tag/v1.2.1), 1 year ago) - Manage your GitHub Actions from Terminal with great UI 🧪
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
