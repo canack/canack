@@ -20,7 +20,7 @@ I'm a software engineer specializing in creating performant and efficient softwa
 
 #### 🔥 Latest releases I've contributed to
 
-- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.46.1](https://github.com/kondukto-io/kdt/releases/tag/v1.46.1), 1 day ago) - CLI to interact with Kondukto
+- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.46.2](https://github.com/kondukto-io/kdt/releases/tag/v1.46.2), today) - CLI to interact with Kondukto
 - [zed-industries/zed](https://github.com/zed-industries/zed) ([v1.6.1-pre](https://github.com/zed-industries/zed/releases/tag/v1.6.1-pre), 3 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [canack/mcpmap](https://github.com/canack/mcpmap) ([v0.1.1](https://github.com/canack/mcpmap/releases/tag/v0.1.1), 3 months ago) - Discover MCP (Model Context Protocol) servers on network ranges
 
