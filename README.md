@@ -20,8 +20,8 @@ I'm a software engineer specializing in creating performant and efficient softwa
 
 #### 🔥 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v1.7.2](https://github.com/zed-industries/zed/releases/tag/v1.7.2), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v1.7.2](https://github.com/zed-industries/zed/releases/tag/v1.7.2), 2 days ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.46.2](https://github.com/kondukto-io/kdt/releases/tag/v1.46.2), 1 week ago) - CLI to interact with Kondukto
-- [canack/mcpmap](https://github.com/canack/mcpmap) ([v0.1.1](https://github.com/canack/mcpmap/releases/tag/v0.1.1), 3 months ago) - Discover MCP (Model Context Protocol) servers on network ranges
+- [canack/mcpmap](https://github.com/canack/mcpmap) ([v0.1.1](https://github.com/canack/mcpmap/releases/tag/v0.1.1), 4 months ago) - Discover MCP (Model Context Protocol) servers on network ranges
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
