@@ -12,11 +12,11 @@ I'm a software engineer specializing in creating performant and efficient softwa
 
 #### 🚧 I'm currently working on
 
+- [canack/huesmith](https://github.com/canack/huesmith) - Turn a ~$10 ESP32 into a smart light that pairs directly with your Philips Hue Bridge — no cloud, no hub. A Rust library. 💡 (today)
 - [canack/claude-usage-line](https://github.com/canack/claude-usage-line) - Custom status line for Claude Code — rate limits, git branch, cost, diff stats (2 months ago)
 - [canack/mcpmap](https://github.com/canack/mcpmap) - Discover MCP (Model Context Protocol) servers on network ranges (4 months ago)
 - [canack/homebrew-tap](https://github.com/canack/homebrew-tap) - Homebrew formulae for canack projects (4 months ago)
 - [canack/bad-mcp](https://github.com/canack/bad-mcp) - 10 intentionally malicious MCP servers that exploit protocol features to attack AI clients. For security research and defense testing. (4 months ago)
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (7 months ago)
 
 #### 🔥 Latest releases I've contributed to
 
