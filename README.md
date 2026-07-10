@@ -12,7 +12,7 @@ I'm a software engineer specializing in creating performant and efficient softwa
 
 #### 🚧 I'm currently working on
 
-- [canack/huesmith](https://github.com/canack/huesmith) - Turn a ~$10 ESP32 into a smart light that pairs directly with your Philips Hue Bridge — no cloud, no hub. A Rust library. 💡 (today)
+- [canack/huesmith](https://github.com/canack/huesmith) - Turn a ~$10 ESP32 into a smart light that pairs directly with your Philips Hue Bridge — no cloud, no hub. A Rust library. 💡 (1 day ago)
 - [canack/claude-usage-line](https://github.com/canack/claude-usage-line) - Custom status line for Claude Code — rate limits, git branch, cost, diff stats (2 months ago)
 - [canack/mcpmap](https://github.com/canack/mcpmap) - Discover MCP (Model Context Protocol) servers on network ranges (4 months ago)
 - [canack/homebrew-tap](https://github.com/canack/homebrew-tap) - Homebrew formulae for canack projects (4 months ago)
@@ -20,9 +20,9 @@ I'm a software engineer specializing in creating performant and efficient softwa
 
 #### 🔥 Latest releases I've contributed to
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) ([v1.10.1](https://github.com/zed-industries/zed/releases/tag/v1.10.1), today) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [canack/huesmith](https://github.com/canack/huesmith) ([v0.1.0](https://github.com/canack/huesmith/releases/tag/v0.1.0), 1 day ago) - Turn a ~$10 ESP32 into a smart light that pairs directly with your Philips Hue Bridge — no cloud, no hub. A Rust library. 💡
-- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.46.3](https://github.com/kondukto-io/kdt/releases/tag/v1.46.3), 2 weeks ago) - CLI to interact with Kondukto
+- [zed-industries/zed](https://github.com/zed-industries/zed) ([v1.10.1](https://github.com/zed-industries/zed/releases/tag/v1.10.1), 1 day ago) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [canack/huesmith](https://github.com/canack/huesmith) ([v0.1.0](https://github.com/canack/huesmith/releases/tag/v0.1.0), 2 days ago) - Turn a ~$10 ESP32 into a smart light that pairs directly with your Philips Hue Bridge — no cloud, no hub. A Rust library. 💡
+- [kondukto-io/kdt](https://github.com/kondukto-io/kdt) ([v1.46.3](https://github.com/kondukto-io/kdt/releases/tag/v1.46.3), 3 weeks ago) - CLI to interact with Kondukto
 - [canack/mcpmap](https://github.com/canack/mcpmap) ([v0.1.1](https://github.com/canack/mcpmap/releases/tag/v0.1.1), 4 months ago) - Discover MCP (Model Context Protocol) servers on network ranges
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canack&theme=gotham)
